@@ -10,6 +10,7 @@ import MatchViewer from "./pages/MatchViewer";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import React, { useEffect, useMemo, useState } from 'react';
+const API_BASE = "https://pingmind-server.onrender.com";
 import {
   RadarChart,
   PolarGrid,
@@ -305,7 +306,7 @@ export default function TableTennisApp({ mode = "user", setMode }) {
   const [threatMetrics, setThreatMetrics] = useState({});
   const [dominanceMetrics, setDominanceMetrics] = useState({});
   useEffect(() => {
-    fetch("/api/player-threat-metrics")
+    fetch(`${API_BASE}/api/player-threat-metrics`)
       .then((res) => res.json())
       .then((data) => {
         setThreatMetrics(data);
@@ -315,7 +316,7 @@ export default function TableTennisApp({ mode = "user", setMode }) {
       });
   }, []);
   useEffect(() => {
-    fetch(`/api/player-dominance-metrics?t=${Date.now()}`, { cache: "no-store" })
+    fetch(`${API_BASE}/api/player-dominance-metrics?t=${Date.now()}`, { cache: "no-store" })
       .then((res) => res.json())
       .then((data) => {
         setDominanceMetrics(data);
@@ -383,7 +384,7 @@ export default function TableTennisApp({ mode = "user", setMode }) {
     const uid = Number(id);
     if (!Number.isFinite(uid) || uid <= 0) return;
     try {
-      const resp = await fetch(`/api/users/${encodeURIComponent(uid)}`);
+      const resp = await fetch(`${API_BASE}/api/users/${encodeURIComponent(uid)}`);
       const data = await resp.json().catch(() => null);
       if (resp.ok && data && typeof data === "object") {
         persistAuthUser(data);
@@ -426,7 +427,7 @@ export default function TableTennisApp({ mode = "user", setMode }) {
     saveUserNameMap(userNameMap);
   }, [userNameMap]);
   useEffect(() => {
-    fetch("/api/players")
+    fetch(`${API_BASE}/api/players`)
       .then(async (res) => {
         let data = null;
         try {
@@ -450,7 +451,7 @@ export default function TableTennisApp({ mode = "user", setMode }) {
   }, []);
   useEffect(() => {
     let cancelled = false;
-    fetch(`/player-photos/manifest.json?ts=${Date.now()}`)
+    fetch(`${API_BASE}/player-photos/manifest.json?ts=${Date.now()}`)
       .then((res) => res.json())
       .then((manifest) => {
         const entries = Array.isArray(manifest?.entries) ? manifest.entries : [];
@@ -667,12 +668,12 @@ export default function TableTennisApp({ mode = "user", setMode }) {
         const chinaPoolNames = simChinaPlayers.map((p) => p.nameEn || p.name).filter(Boolean);
 
         const [matchResp, lineupResp] = await Promise.all([
-          fetch("/api/matchup-predict", {
+          fetch(`${API_BASE}/api/matchup-predict`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ foreignName, chinaName, eventKey: simEvent, foreignUseDominance: true }),
           }),
-          fetch("/api/lineup-recommend", {
+          fetch(`${API_BASE}/api/lineup-recommend`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ foreignName, eventKey: simEvent, chinaPoolNames, topN: 10, foreignUseDominance: true }),
@@ -1409,7 +1410,7 @@ const TacticalSimulatorPanel = ({
         setSimAiMessages((prev) => [...prev, { role: "user", content: userTask }]);
       }
 
-      const resp = await fetch("/api/tt-assistant", {
+      const resp = await fetch(`${API_BASE}/api/tt-assistant`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -1829,7 +1830,7 @@ const ChatPanel = ({ selectedPlayer, players, onPickPlayer }) => {
     setLoading(true);
 
     try {
-      const resp = await fetch("/api/tt-assistant", {
+      const resp = await fetch(`${API_BASE}/api/tt-assistant`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question: q, player: currentPlayer }),
@@ -2494,7 +2495,7 @@ const PlayerDetail = ({ player, players, photoIndex, onBack, onSetNameZh, onJump
                       URL: livesportUrl
                     });
 
-                    fetch(`/api/player-matches?source=livesport&playerUrl=${encodeURIComponent(livesportUrl)}&name=${encodeURIComponent(nameQuery)}&years=2&force=1&debug=1`)
+                    fetch(`${API_BASE}/api/player-matches?source=livesport&playerUrl=${encodeURIComponent(livesportUrl)}&name=${encodeURIComponent(nameQuery)}&years=2&force=1&debug=1`)
                       .then(r => {
                         console.log('📡 API响应状态:', r.status);
                         return r.json();
