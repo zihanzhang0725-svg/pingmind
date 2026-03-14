@@ -17,7 +17,7 @@ export default function Login({ onLogin, onGoRegister }) {
     setSubmitting(true);
     setError("");
     try {
-      const resp = await fetch("/api/auth/login", {
+      const resp = await fetch("https://pingmind-server.onrender.com/api/auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username: username.trim(), password: password.trim() }),
