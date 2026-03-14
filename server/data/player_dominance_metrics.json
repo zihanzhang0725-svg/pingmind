@@ -1,0 +1,1322 @@
+{
+  "Hugo CALDERANO": {
+    "metrics": {
+      "techPressure": 69.54,
+      "stability": 53.96,
+      "foreignControl": 46.25,
+      "eventPerformanceScore": 65.95,
+      "rankingStrength": 100,
+      "strongOppRate": 55.25
+    },
+    "dominanceScore": 69.91
+  },
+  "Truls MOREGARD": {
+    "metrics": {
+      "techPressure": 62.75,
+      "stability": 56.57,
+      "foreignControl": 34.81,
+      "eventPerformanceScore": 64.85,
+      "rankingStrength": 95,
+      "strongOppRate": 52.96
+    },
+    "dominanceScore": 65.94
+  },
+  "HARIMOTO Tomokazu": {
+    "metrics": {
+      "techPressure": 63.74,
+      "stability": 61.5,
+      "foreignControl": 56.45,
+      "eventPerformanceScore": 66.36,
+      "rankingStrength": 95,
+      "strongOppRate": 60.87
+    },
+    "dominanceScore": 71.29
+  },
+  "LEBRUN Felix": {
+    "metrics": {
+      "techPressure": 64.95,
+      "stability": 48.57,
+      "foreignControl": 49.58,
+      "eventPerformanceScore": 63.95,
+      "rankingStrength": 90,
+      "strongOppRate": 61.84
+    },
+    "dominanceScore": 67.28
+  },
+  "MATSUSHIMA Sora": {
+    "metrics": {
+      "techPressure": 60.68,
+      "stability": 42.67,
+      "foreignControl": 40.71,
+      "eventPerformanceScore": 59.82,
+      "rankingStrength": 90,
+      "strongOppRate": 51.83
+    },
+    "dominanceScore": 62.57
+  },
+  "LIN Yun-Ju": {
+    "metrics": {
+      "techPressure": 64.07,
+      "stability": 67.51,
+      "foreignControl": 45.27,
+      "eventPerformanceScore": 65.19,
+      "rankingStrength": 90,
+      "strongOppRate": 53.71
+    },
+    "dominanceScore": 68.58
+  },
+  "Alexis LEBRUN": {
+    "metrics": {
+      "techPressure": 59.59,
+      "stability": 63.04,
+      "foreignControl": 41.45,
+      "eventPerformanceScore": 58.38,
+      "rankingStrength": 90,
+      "strongOppRate": 51.76
+    },
+    "dominanceScore": 65.11
+  },
+  "Dang QIU": {
+    "metrics": {
+      "techPressure": 58.14,
+      "stability": 62.44,
+      "foreignControl": 52.12,
+      "eventPerformanceScore": 58.59,
+      "rankingStrength": 82,
+      "strongOppRate": 39.66
+    },
+    "dominanceScore": 63.88
+  },
+  "JANG Woojin": {
+    "metrics": {
+      "techPressure": 50.19,
+      "stability": 47.56,
+      "foreignControl": 43.62,
+      "eventPerformanceScore": 57.96,
+      "rankingStrength": 82,
+      "strongOppRate": 49
+    },
+    "dominanceScore": 59.8
+  },
+  "Benedikt DUDA": {
+    "metrics": {
+      "techPressure": 54.84,
+      "stability": 40.05,
+      "foreignControl": 34.88,
+      "eventPerformanceScore": 53.62,
+      "rankingStrength": 82,
+      "strongOppRate": 28.09
+    },
+    "dominanceScore": 55.27
+  },
+  "Darko JORGIC": {
+    "metrics": {
+      "techPressure": 55.61,
+      "stability": 48.44,
+      "foreignControl": 42.2,
+      "eventPerformanceScore": 50.42,
+      "rankingStrength": 82,
+      "strongOppRate": 39.44
+    },
+    "dominanceScore": 58.27
+  },
+  "AN Jaehyun": {
+    "metrics": {
+      "techPressure": 47.14,
+      "stability": 65.29,
+      "foreignControl": 32.22,
+      "eventPerformanceScore": 49.77,
+      "rankingStrength": 82,
+      "strongOppRate": 29.57
+    },
+    "dominanceScore": 56.54
+  },
+  "Simon GAUZY": {
+    "metrics": {
+      "techPressure": 54.2,
+      "stability": 58.03,
+      "foreignControl": 44.53,
+      "eventPerformanceScore": 51.95,
+      "rankingStrength": 82,
+      "strongOppRate": 47.66
+    },
+    "dominanceScore": 60.85
+  },
+  "Anders LIND": {
+    "metrics": {
+      "techPressure": 47.93,
+      "stability": 62.37,
+      "foreignControl": 48.42,
+      "eventPerformanceScore": 52.47,
+      "rankingStrength": 82,
+      "strongOppRate": 37.97
+    },
+    "dominanceScore": 60.2
+  },
+  "Patrick FRANZISKA": {
+    "metrics": {
+      "techPressure": 46.82,
+      "stability": 63.25,
+      "foreignControl": 50.95,
+      "eventPerformanceScore": 55.58,
+      "rankingStrength": 82,
+      "strongOppRate": 40.08
+    },
+    "dominanceScore": 61.34
+  },
+  "TOGAMI Shunsuke": {
+    "metrics": {
+      "techPressure": 58.34,
+      "stability": 47.15,
+      "foreignControl": 40.46,
+      "eventPerformanceScore": 53.98,
+      "rankingStrength": 82,
+      "strongOppRate": 43.83
+    },
+    "dominanceScore": 59.37
+  },
+  "Kanak JHA": {
+    "metrics": {
+      "techPressure": 40.48,
+      "stability": 52.75,
+      "foreignControl": 40.3,
+      "eventPerformanceScore": 49.01,
+      "rankingStrength": 70,
+      "strongOppRate": 45.05
+    },
+    "dominanceScore": 53.93
+  },
+  "OH Junsung": {
+    "metrics": {
+      "techPressure": 46.66,
+      "stability": 52.8,
+      "foreignControl": 44.57,
+      "eventPerformanceScore": 55.3,
+      "rankingStrength": 70,
+      "strongOppRate": 25.26
+    },
+    "dominanceScore": 55.02
+  },
+  "Dimitrij OVTCHAROV": {
+    "metrics": {
+      "techPressure": 52.07,
+      "stability": 45.96,
+      "foreignControl": 43.97,
+      "eventPerformanceScore": 57.44,
+      "rankingStrength": 70,
+      "strongOppRate": 37.64
+    },
+    "dominanceScore": 56.47
+  },
+  "UDA Yukiya": {
+    "metrics": {
+      "techPressure": 41.5,
+      "stability": 44.14,
+      "foreignControl": 37.84,
+      "eventPerformanceScore": 47.76,
+      "rankingStrength": 70,
+      "strongOppRate": 26.61
+    },
+    "dominanceScore": 50.43
+  },
+  "Tomislav PUCAR": {
+    "metrics": {
+      "techPressure": 47.29,
+      "stability": 56.37,
+      "foreignControl": 39.86,
+      "eventPerformanceScore": 47.32,
+      "rankingStrength": 70,
+      "strongOppRate": 24.2
+    },
+    "dominanceScore": 53.23
+  },
+  "Anton KALLBERG": {
+    "metrics": {
+      "techPressure": 52.11,
+      "stability": 52.41,
+      "foreignControl": 39.9,
+      "eventPerformanceScore": 52.53,
+      "rankingStrength": 70,
+      "strongOppRate": 37.41
+    },
+    "dominanceScore": 55.78
+  },
+  "SHINOZUKA Hiroto": {
+    "metrics": {
+      "techPressure": 45.67,
+      "stability": 55.86,
+      "foreignControl": 34.32,
+      "eventPerformanceScore": 51.27,
+      "rankingStrength": 70,
+      "strongOppRate": 22.65
+    },
+    "dominanceScore": 52.58
+  },
+  "Omar ASSAR": {
+    "metrics": {
+      "techPressure": 35.16,
+      "stability": 46.65,
+      "foreignControl": 31.82,
+      "eventPerformanceScore": 44.04,
+      "rankingStrength": 70,
+      "strongOppRate": 20.29
+    },
+    "dominanceScore": 47.35
+  },
+  "COTON Flavien": {
+    "metrics": {
+      "techPressure": 49.48,
+      "stability": 54.32,
+      "foreignControl": 31.4,
+      "eventPerformanceScore": 55.48,
+      "rankingStrength": 70,
+      "strongOppRate": 26.48
+    },
+    "dominanceScore": 53.72
+  },
+  "Quadri ARUNA": {
+    "metrics": {
+      "techPressure": 34.37,
+      "stability": 39.83,
+      "foreignControl": 43.82,
+      "eventPerformanceScore": 45.1,
+      "rankingStrength": 70,
+      "strongOppRate": 22.26
+    },
+    "dominanceScore": 48.6
+  },
+  "Manav THAKKAR": {
+    "metrics": {
+      "techPressure": 42.14,
+      "stability": 67.09,
+      "foreignControl": 33.36,
+      "eventPerformanceScore": 50.13,
+      "rankingStrength": 70,
+      "strongOppRate": 32.77
+    },
+    "dominanceScore": 54.19
+  },
+  "PORET Thibault": {
+    "metrics": {
+      "techPressure": 48.71,
+      "stability": 53.88,
+      "foreignControl": 39.41,
+      "eventPerformanceScore": 56.1,
+      "rankingStrength": 70,
+      "strongOppRate": 34.72
+    },
+    "dominanceScore": 55.75
+  },
+  "TANAKA Yuta": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 70,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 58.84
+  },
+  "REDZIMSKI Milosz": {
+    "metrics": {
+      "techPressure": 47.97,
+      "stability": 44.17,
+      "foreignControl": 36.91,
+      "eventPerformanceScore": 52.3,
+      "rankingStrength": 70,
+      "strongOppRate": 28.44
+    },
+    "dominanceScore": 52.47
+  },
+  "Jonathan GROTH": {
+    "metrics": {
+      "techPressure": 40.2,
+      "stability": 59.12,
+      "foreignControl": 34.4,
+      "eventPerformanceScore": 51.11,
+      "rankingStrength": 70,
+      "strongOppRate": 25.97
+    },
+    "dominanceScore": 52.4
+  },
+  "Kristian KARLSSON": {
+    "metrics": {
+      "techPressure": 54.98,
+      "stability": 49.88,
+      "foreignControl": 35.75,
+      "eventPerformanceScore": 58.18,
+      "rankingStrength": 70,
+      "strongOppRate": 35.7
+    },
+    "dominanceScore": 56.15
+  },
+  "LUM Nicholas": {
+    "metrics": {
+      "techPressure": 29.1,
+      "stability": 59.03,
+      "foreignControl": 34.7,
+      "eventPerformanceScore": 43.63,
+      "rankingStrength": 70,
+      "strongOppRate": 31.14
+    },
+    "dominanceScore": 49.55
+  },
+  "IONESCU Eduard": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 70,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 58.84
+  },
+  "Ricardo WALTHER": {
+    "metrics": {
+      "techPressure": 46.01,
+      "stability": 39.55,
+      "foreignControl": 38.91,
+      "eventPerformanceScore": 52.58,
+      "rankingStrength": 70,
+      "strongOppRate": 35.79
+    },
+    "dominanceScore": 52.55
+  },
+  "WONG Chun Ting": {
+    "metrics": {
+      "techPressure": 43.65,
+      "stability": 56.51,
+      "foreignControl": 34.92,
+      "eventPerformanceScore": 47.62,
+      "rankingStrength": 70,
+      "strongOppRate": 21.28
+    },
+    "dominanceScore": 51.58
+  },
+  "KAO Cheng-Jui": {
+    "metrics": {
+      "techPressure": 38.78,
+      "stability": 55.27,
+      "foreignControl": 32.29,
+      "eventPerformanceScore": 49.07,
+      "rankingStrength": 70,
+      "strongOppRate": 35.32
+    },
+    "dominanceScore": 51.76
+  },
+  "Lilian BARDET": {
+    "metrics": {
+      "techPressure": 38.97,
+      "stability": 46.67,
+      "foreignControl": 52.43,
+      "eventPerformanceScore": 40.36,
+      "rankingStrength": 70,
+      "strongOppRate": 40.34
+    },
+    "dominanceScore": 52.66
+  },
+  "LUU Finn": {
+    "metrics": {
+      "techPressure": 24.95,
+      "stability": 51.33,
+      "foreignControl": 41.89,
+      "eventPerformanceScore": 40.95,
+      "rankingStrength": 70,
+      "strongOppRate": 28.36
+    },
+    "dominanceScore": 48.1
+  },
+  "Youssef ABDELAZIZ": {
+    "metrics": {
+      "techPressure": 34.82,
+      "stability": 55.92,
+      "foreignControl": 42.62,
+      "eventPerformanceScore": 45.91,
+      "rankingStrength": 70,
+      "strongOppRate": 40.25
+    },
+    "dominanceScore": 52.73
+  },
+  "CHO Daeseong": {
+    "metrics": {
+      "techPressure": 44.45,
+      "stability": 41.03,
+      "foreignControl": 38.59,
+      "eventPerformanceScore": 49.77,
+      "rankingStrength": 60,
+      "strongOppRate": 38.4
+    },
+    "dominanceScore": 50.21
+  },
+  "Vladimir SIDORENKO": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 56.93
+  },
+  "FENG Yi-Hsin": {
+    "metrics": {
+      "techPressure": 47.66,
+      "stability": 40.75,
+      "foreignControl": 34.9,
+      "eventPerformanceScore": 54.28,
+      "rankingStrength": 60,
+      "strongOppRate": 32.63
+    },
+    "dominanceScore": 50.44
+  },
+  "Leo DE NODREST": {
+    "metrics": {
+      "techPressure": 53.36,
+      "stability": 56.56,
+      "foreignControl": 41.73,
+      "eventPerformanceScore": 55.65,
+      "rankingStrength": 60,
+      "strongOppRate": 32.99
+    },
+    "dominanceScore": 55.14
+  },
+  "Aditya SAREEN": {
+    "metrics": {
+      "techPressure": 30.26,
+      "stability": 54.34,
+      "foreignControl": 40.3,
+      "eventPerformanceScore": 45.82,
+      "rankingStrength": 60,
+      "strongOppRate": 28.86
+    },
+    "dominanceScore": 48.25
+  },
+  "HAMADA Kazuki": {
+    "metrics": {
+      "techPressure": 54.54,
+      "stability": 58.57,
+      "foreignControl": 41.28,
+      "eventPerformanceScore": 61.87,
+      "rankingStrength": 60,
+      "strongOppRate": 34.58
+    },
+    "dominanceScore": 56.91
+  },
+  "Sathiyan GNANASEKARAN": {
+    "metrics": {
+      "techPressure": 46.01,
+      "stability": 51.33,
+      "foreignControl": 38.03,
+      "eventPerformanceScore": 50.8,
+      "rankingStrength": 60,
+      "strongOppRate": 40.09
+    },
+    "dominanceScore": 52.25
+  },
+  "Adrien RASSENFOSSE": {
+    "metrics": {
+      "techPressure": 50.35,
+      "stability": 67.44,
+      "foreignControl": 45.3,
+      "eventPerformanceScore": 49.59,
+      "rankingStrength": 60,
+      "strongOppRate": 35.42
+    },
+    "dominanceScore": 55.84
+  },
+  "BAE Hwan": {
+    "metrics": {
+      "techPressure": 26.4,
+      "stability": 58.97,
+      "foreignControl": 37.39,
+      "eventPerformanceScore": 40.13,
+      "rankingStrength": 60,
+      "strongOppRate": 29.02
+    },
+    "dominanceScore": 46.67
+  },
+  "YOSHIYAMA Ryoichi": {
+    "metrics": {
+      "techPressure": 61.29,
+      "stability": 54.03,
+      "foreignControl": 45,
+      "eventPerformanceScore": 60.9,
+      "rankingStrength": 60,
+      "strongOppRate": 44.47
+    },
+    "dominanceScore": 58.78
+  },
+  "ZHU Yuling": {
+    "metrics": {
+      "techPressure": 64.87,
+      "stability": 62.8,
+      "foreignControl": 47.15,
+      "eventPerformanceScore": 64.04,
+      "rankingStrength": 95,
+      "strongOppRate": 58.61
+    },
+    "dominanceScore": 69.54
+  },
+  "HARIMOTO Miwa": {
+    "metrics": {
+      "techPressure": 66.85,
+      "stability": 48.26,
+      "foreignControl": 27.22,
+      "eventPerformanceScore": 67.61,
+      "rankingStrength": 90,
+      "strongOppRate": 39.69
+    },
+    "dominanceScore": 62.57
+  },
+  "ITO Mima": {
+    "metrics": {
+      "techPressure": 54.94,
+      "stability": 37.47,
+      "foreignControl": 31.59,
+      "eventPerformanceScore": 53.56,
+      "rankingStrength": 90,
+      "strongOppRate": 37.47
+    },
+    "dominanceScore": 56.8
+  },
+  "HAYATA Hina": {
+    "metrics": {
+      "techPressure": 55.92,
+      "stability": 47,
+      "foreignControl": 25.85,
+      "eventPerformanceScore": 59.31,
+      "rankingStrength": 90,
+      "strongOppRate": 36.84
+    },
+    "dominanceScore": 58.44
+  },
+  "HASHIMOTO Honoka": {
+    "metrics": {
+      "techPressure": 70.05,
+      "stability": 50.65,
+      "foreignControl": 54.38,
+      "eventPerformanceScore": 63.62,
+      "rankingStrength": 82,
+      "strongOppRate": 45.18
+    },
+    "dominanceScore": 66.07
+  },
+  "SHIN Yubin": {
+    "metrics": {
+      "techPressure": 54.06,
+      "stability": 52.9,
+      "foreignControl": 38.7,
+      "eventPerformanceScore": 59.36,
+      "rankingStrength": 82,
+      "strongOppRate": 39.35
+    },
+    "dominanceScore": 59.77
+  },
+  "ODO Satsuki": {
+    "metrics": {
+      "techPressure": 61.66,
+      "stability": 52.71,
+      "foreignControl": 27.75,
+      "eventPerformanceScore": 61.45,
+      "rankingStrength": 82,
+      "strongOppRate": 31.19
+    },
+    "dominanceScore": 58.89
+  },
+  "NAGASAKI Miyu": {
+    "metrics": {
+      "techPressure": 56.91,
+      "stability": 55.93,
+      "foreignControl": 32.74,
+      "eventPerformanceScore": 53.86,
+      "rankingStrength": 82,
+      "strongOppRate": 30.54
+    },
+    "dominanceScore": 57.84
+  },
+  "JOO Cheonhui": {
+    "metrics": {
+      "techPressure": 48.99,
+      "stability": 53.12,
+      "foreignControl": 32.75,
+      "eventPerformanceScore": 55,
+      "rankingStrength": 82,
+      "strongOppRate": 30.89
+    },
+    "dominanceScore": 56.32
+  },
+  "Sabine WINTER": {
+    "metrics": {
+      "techPressure": 63.98,
+      "stability": 50.11,
+      "foreignControl": 42,
+      "eventPerformanceScore": 57.81,
+      "rankingStrength": 82,
+      "strongOppRate": 48.99
+    },
+    "dominanceScore": 62.23
+  },
+  "Ying HAN": {
+    "metrics": {
+      "techPressure": 50.71,
+      "stability": 74.33,
+      "foreignControl": 48.89,
+      "eventPerformanceScore": 54.74,
+      "rankingStrength": 82,
+      "strongOppRate": 45.41
+    },
+    "dominanceScore": 63.6
+  },
+  "Adriana DIAZ": {
+    "metrics": {
+      "techPressure": 46.91,
+      "stability": 67.38,
+      "foreignControl": 33.33,
+      "eventPerformanceScore": 55.56,
+      "rankingStrength": 82,
+      "strongOppRate": 30.5
+    },
+    "dominanceScore": 58.18
+  },
+  "Bruna TAKAHASHI": {
+    "metrics": {
+      "techPressure": 46.76,
+      "stability": 44.57,
+      "foreignControl": 34.61,
+      "eventPerformanceScore": 52.53,
+      "rankingStrength": 82,
+      "strongOppRate": 25.12
+    },
+    "dominanceScore": 53.98
+  },
+  "CHENG I-Ching": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 70,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 58.84
+  },
+  "KIHARA Miyuu": {
+    "metrics": {
+      "techPressure": 56.9,
+      "stability": 46.12,
+      "foreignControl": 37.69,
+      "eventPerformanceScore": 61.17,
+      "rankingStrength": 70,
+      "strongOppRate": 46.03
+    },
+    "dominanceScore": 57.82
+  },
+  "SATO Hitomi": {
+    "metrics": {
+      "techPressure": 59.31,
+      "stability": 44.22,
+      "foreignControl": 44.53,
+      "eventPerformanceScore": 58.98,
+      "rankingStrength": 70,
+      "strongOppRate": 54.68
+    },
+    "dominanceScore": 59.48
+  },
+  "Hana GODA": {
+    "metrics": {
+      "techPressure": 39,
+      "stability": 50.07,
+      "foreignControl": 33.22,
+      "eventPerformanceScore": 48.5,
+      "rankingStrength": 70,
+      "strongOppRate": 34.05
+    },
+    "dominanceScore": 50.96
+  },
+  "YUAN Jia Nan": {
+    "metrics": {
+      "techPressure": 44.54,
+      "stability": 43.67,
+      "foreignControl": 37.85,
+      "eventPerformanceScore": 43.77,
+      "rankingStrength": 70,
+      "strongOppRate": 29.67
+    },
+    "dominanceScore": 50.42
+  },
+  "KIM Nayeong": {
+    "metrics": {
+      "techPressure": 43.65,
+      "stability": 56.47,
+      "foreignControl": 30.04,
+      "eventPerformanceScore": 50.89,
+      "rankingStrength": 70,
+      "strongOppRate": 26.44
+    },
+    "dominanceScore": 51.9
+  },
+  "Bernadette SZOCS": {
+    "metrics": {
+      "techPressure": 50.71,
+      "stability": 39.87,
+      "foreignControl": 36.11,
+      "eventPerformanceScore": 52.79,
+      "rankingStrength": 70,
+      "strongOppRate": 33.3
+    },
+    "dominanceScore": 52.75
+  },
+  "Prithika PAVADE": {
+    "metrics": {
+      "techPressure": 46.18,
+      "stability": 47.31,
+      "foreignControl": 29.02,
+      "eventPerformanceScore": 51.2,
+      "rankingStrength": 70,
+      "strongOppRate": 20.51
+    },
+    "dominanceScore": 50.33
+  },
+  "Elizabeta SAMARA": {
+    "metrics": {
+      "techPressure": 40.96,
+      "stability": 41.25,
+      "foreignControl": 37.39,
+      "eventPerformanceScore": 47.36,
+      "rankingStrength": 70,
+      "strongOppRate": 29.49
+    },
+    "dominanceScore": 50.04
+  },
+  "Sofia POLCANOVA": {
+    "metrics": {
+      "techPressure": 49.5,
+      "stability": 46.85,
+      "foreignControl": 29.96,
+      "eventPerformanceScore": 51.91,
+      "rankingStrength": 70,
+      "strongOppRate": 30.22
+    },
+    "dominanceScore": 52.08
+  },
+  "LEE Eunhye": {
+    "metrics": {
+      "techPressure": 41.38,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 70,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 57
+  },
+  "ZENG Jian": {
+    "metrics": {
+      "techPressure": 45.41,
+      "stability": 49.41,
+      "foreignControl": 35.36,
+      "eventPerformanceScore": 55.2,
+      "rankingStrength": 70,
+      "strongOppRate": 36.24
+    },
+    "dominanceScore": 53.84
+  },
+  "YOKOI Sakura": {
+    "metrics": {
+      "techPressure": 57.34,
+      "stability": 54.13,
+      "foreignControl": 52.91,
+      "eventPerformanceScore": 60.72,
+      "rankingStrength": 70,
+      "strongOppRate": 53.47
+    },
+    "dominanceScore": 62.13
+  },
+  "DOO Hoi Kem": {
+    "metrics": {
+      "techPressure": 40.42,
+      "stability": 38.73,
+      "foreignControl": 24.64,
+      "eventPerformanceScore": 51.41,
+      "rankingStrength": 70,
+      "strongOppRate": 21.22
+    },
+    "dominanceScore": 47.45
+  },
+  "LIU Yangzi": {
+    "metrics": {
+      "techPressure": 33.19,
+      "stability": 51.82,
+      "foreignControl": 36.95,
+      "eventPerformanceScore": 43.28,
+      "rankingStrength": 70,
+      "strongOppRate": 28.48
+    },
+    "dominanceScore": 49.26
+  },
+  "Lily ZHANG": {
+    "metrics": {
+      "techPressure": 34.91,
+      "stability": 51.66,
+      "foreignControl": 32.2,
+      "eventPerformanceScore": 45.35,
+      "rankingStrength": 70,
+      "strongOppRate": 26.17
+    },
+    "dominanceScore": 48.93
+  },
+  "AKAE Kaho": {
+    "metrics": {
+      "techPressure": 49.63,
+      "stability": 54.03,
+      "foreignControl": 40.18,
+      "eventPerformanceScore": 55.87,
+      "rankingStrength": 70,
+      "strongOppRate": 38.13
+    },
+    "dominanceScore": 56.33
+  },
+  "SHIBATA Saki": {
+    "metrics": {
+      "techPressure": 53.71,
+      "stability": 58.32,
+      "foreignControl": 45,
+      "eventPerformanceScore": 60.08,
+      "rankingStrength": 70,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 59.9
+  },
+  "Sreeja AKULA": {
+    "metrics": {
+      "techPressure": 40.88,
+      "stability": 49.92,
+      "foreignControl": 36.72,
+      "eventPerformanceScore": 47.29,
+      "rankingStrength": 70,
+      "strongOppRate": 35.92
+    },
+    "dominanceScore": 51.79
+  },
+  "HURSEY Anna": {
+    "metrics": {
+      "techPressure": 49.36,
+      "stability": 55.41,
+      "foreignControl": 34.39,
+      "eventPerformanceScore": 55.64,
+      "rankingStrength": 70,
+      "strongOppRate": 33.84
+    },
+    "dominanceScore": 55.09
+  },
+  "Dina MESHREF": {
+    "metrics": {
+      "techPressure": 34.29,
+      "stability": 48.73,
+      "foreignControl": 35.91,
+      "eventPerformanceScore": 48.56,
+      "rankingStrength": 70,
+      "strongOppRate": 30.13
+    },
+    "dominanceScore": 50.02
+  },
+  "Manika BATRA": {
+    "metrics": {
+      "techPressure": 36.58,
+      "stability": 57.63,
+      "foreignControl": 37.68,
+      "eventPerformanceScore": 49.82,
+      "rankingStrength": 70,
+      "strongOppRate": 33.28
+    },
+    "dominanceScore": 52.55
+  },
+  "Linda BERGSTROM": {
+    "metrics": {
+      "techPressure": 39.83,
+      "stability": 44.6,
+      "foreignControl": 39.02,
+      "eventPerformanceScore": 53.39,
+      "rankingStrength": 70,
+      "strongOppRate": 36.59
+    },
+    "dominanceScore": 52.46
+  },
+  "Mo ZHANG": {
+    "metrics": {
+      "techPressure": 36.9,
+      "stability": 53.59,
+      "foreignControl": 36.19,
+      "eventPerformanceScore": 49.1,
+      "rankingStrength": 70,
+      "strongOppRate": 29.25
+    },
+    "dominanceScore": 51.24
+  },
+  "KAUFMANN Annett": {
+    "metrics": {
+      "techPressure": 53.53,
+      "stability": 51.98,
+      "foreignControl": 39.98,
+      "eventPerformanceScore": 49.58,
+      "rankingStrength": 70,
+      "strongOppRate": 27.06
+    },
+    "dominanceScore": 54.41
+  },
+  "Minhyung JEE": {
+    "metrics": {
+      "techPressure": 24.34,
+      "stability": 48.33,
+      "foreignControl": 36.79,
+      "eventPerformanceScore": 41.21,
+      "rankingStrength": 60,
+      "strongOppRate": 29.83
+    },
+    "dominanceScore": 44.93
+  },
+  "HIRANO Miu": {
+    "metrics": {
+      "techPressure": 50.37,
+      "stability": 56.34,
+      "foreignControl": 38.57,
+      "eventPerformanceScore": 57.62,
+      "rankingStrength": 60,
+      "strongOppRate": 43.49
+    },
+    "dominanceScore": 55.46
+  },
+  "LI Yu-Jhun": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 56.93
+  },
+  "PSIHOGIOS Constantina": {
+    "metrics": {
+      "techPressure": 31.94,
+      "stability": 55,
+      "foreignControl": 41.34,
+      "eventPerformanceScore": 47.58,
+      "rankingStrength": 60,
+      "strongOppRate": 35.98
+    },
+    "dominanceScore": 49.85
+  },
+  "Lea RAKOVAC": {
+    "metrics": {
+      "techPressure": 47.25,
+      "stability": 52.4,
+      "foreignControl": 45,
+      "eventPerformanceScore": 57.13,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 55.46
+  },
+  "Jieni SHAO": {
+    "metrics": {
+      "techPressure": 43.19,
+      "stability": 58.86,
+      "foreignControl": 41.89,
+      "eventPerformanceScore": 47.55,
+      "rankingStrength": 60,
+      "strongOppRate": 37.36
+    },
+    "dominanceScore": 52.59
+  },
+  "Fu YU": {
+    "metrics": {
+      "techPressure": 47.94,
+      "stability": 58.83,
+      "foreignControl": 42.18,
+      "eventPerformanceScore": 52.51,
+      "rankingStrength": 60,
+      "strongOppRate": 25.46
+    },
+    "dominanceScore": 53.27
+  },
+  "YEH Yi-Tian": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 56.93
+  },
+  "Xiaona SHAN": {
+    "metrics": {
+      "techPressure": 34.38,
+      "stability": 55.14,
+      "foreignControl": 32.39,
+      "eventPerformanceScore": 46.71,
+      "rankingStrength": 60,
+      "strongOppRate": 33.32
+    },
+    "dominanceScore": 48.39
+  },
+  "Amy WANG": {
+    "metrics": {
+      "techPressure": 39.3,
+      "stability": 58.48,
+      "foreignControl": 45,
+      "eventPerformanceScore": 50.14,
+      "rankingStrength": 60,
+      "strongOppRate": 41.18
+    },
+    "dominanceScore": 53.24
+  },
+  "LUTZ Charlotte": {
+    "metrics": {
+      "techPressure": 45.39,
+      "stability": 52.68,
+      "foreignControl": 36.77,
+      "eventPerformanceScore": 51.42,
+      "rankingStrength": 60,
+      "strongOppRate": 33.69
+    },
+    "dominanceScore": 51.63
+  },
+  "キム・ソンジン KIM Seongjin": {
+    "metrics": {
+      "techPressure": 52.1,
+      "stability": 55,
+      "foreignControl": 45,
+      "eventPerformanceScore": 58.5,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 56.93
+  },
+  "CHUQIN WANG": {
+    "metrics": {
+      "techPressure": 83.85,
+      "stability": 64.91,
+      "foreignControl": 92.58,
+      "eventPerformanceScore": 76.58,
+      "rankingStrength": 100,
+      "strongOppRate": 78.59
+    },
+    "dominanceScore": 89.35
+  },
+  "SHIDONG LIN": {
+    "metrics": {
+      "techPressure": 68.4,
+      "stability": 48.74,
+      "foreignControl": 68.42,
+      "eventPerformanceScore": 64.22,
+      "rankingStrength": 100,
+      "strongOppRate": 51.47
+    },
+    "dominanceScore": 76.03
+  },
+  "JINGKUN LIANG": {
+    "metrics": {
+      "techPressure": 57.35,
+      "stability": 55.25,
+      "foreignControl": 65.2,
+      "eventPerformanceScore": 62.48,
+      "rankingStrength": 82,
+      "strongOppRate": 44.26
+    },
+    "dominanceScore": 70.22
+  },
+  "PENG XIANG": {
+    "metrics": {
+      "techPressure": 54.02,
+      "stability": 46.84,
+      "foreignControl": 61.84,
+      "eventPerformanceScore": 54.57,
+      "rankingStrength": 90,
+      "strongOppRate": 38.03
+    },
+    "dominanceScore": 67.37
+  },
+  "QIHAO ZHOU": {
+    "metrics": {
+      "techPressure": 60.89,
+      "stability": 64.17,
+      "foreignControl": 57.44,
+      "eventPerformanceScore": 65.1,
+      "rankingStrength": 70,
+      "strongOppRate": 48.35
+    },
+    "dominanceScore": 69.46
+  },
+  "YUANYU CHEN": {
+    "metrics": {
+      "techPressure": 50.04,
+      "stability": 58.68,
+      "foreignControl": 53.17,
+      "eventPerformanceScore": 51.13,
+      "rankingStrength": 70,
+      "strongOppRate": 34.71
+    },
+    "dominanceScore": 62.24
+  },
+  "YOUZHENG HUANG": {
+    "metrics": {
+      "techPressure": 56.17,
+      "stability": 55.29,
+      "foreignControl": 50.25,
+      "eventPerformanceScore": 59.08,
+      "rankingStrength": 60,
+      "strongOppRate": 46.11
+    },
+    "dominanceScore": 63.03
+  },
+  "JUNSONG CHEN": {
+    "metrics": {
+      "techPressure": 56.73,
+      "stability": 65.35,
+      "foreignControl": 59.98,
+      "eventPerformanceScore": 61.36,
+      "rankingStrength": 70,
+      "strongOppRate": 33.97
+    },
+    "dominanceScore": 67.28
+  },
+  "RUIBO WEN": {
+    "metrics": {
+      "techPressure": 60.13,
+      "stability": 65.64,
+      "foreignControl": 72.73,
+      "eventPerformanceScore": 59.9,
+      "rankingStrength": 70,
+      "strongOppRate": 59.58
+    },
+    "dominanceScore": 72.05
+  },
+  "GAOYUAN LIN": {
+    "metrics": {
+      "techPressure": 51.61,
+      "stability": 48.65,
+      "foreignControl": 59.7,
+      "eventPerformanceScore": 58.19,
+      "rankingStrength": 60,
+      "strongOppRate": 30.44
+    },
+    "dominanceScore": 61.17
+  },
+  "YINGSHA SUN": {
+    "metrics": {
+      "techPressure": 82.34,
+      "stability": 75.28,
+      "foreignControl": 94.19,
+      "eventPerformanceScore": 76.09,
+      "rankingStrength": 100,
+      "strongOppRate": 72.65
+    },
+    "dominanceScore": 90.14
+  },
+  "MANYU WANG": {
+    "metrics": {
+      "techPressure": 71.98,
+      "stability": 42.18,
+      "foreignControl": 83.63,
+      "eventPerformanceScore": 69.56,
+      "rankingStrength": 100,
+      "strongOppRate": 53.68
+    },
+    "dominanceScore": 79.3
+  },
+  "XINGTONG CHEN": {
+    "metrics": {
+      "techPressure": 69.72,
+      "stability": 67.55,
+      "foreignControl": 81.9,
+      "eventPerformanceScore": 69.9,
+      "rankingStrength": 100,
+      "strongOppRate": 55.05
+    },
+    "dominanceScore": 82.35
+  },
+  "MAN KUAI": {
+    "metrics": {
+      "techPressure": 67.64,
+      "stability": 54.37,
+      "foreignControl": 84.07,
+      "eventPerformanceScore": 62.12,
+      "rankingStrength": 95,
+      "strongOppRate": 40.63
+    },
+    "dominanceScore": 76.83
+  },
+  "YIDI WANG": {
+    "metrics": {
+      "techPressure": 63.59,
+      "stability": 65.44,
+      "foreignControl": 79.34,
+      "eventPerformanceScore": 65.42,
+      "rankingStrength": 90,
+      "strongOppRate": 48.65
+    },
+    "dominanceScore": 77.37
+  },
+  "YI CHEN": {
+    "metrics": {
+      "techPressure": 60.72,
+      "stability": 69.83,
+      "foreignControl": 74.82,
+      "eventPerformanceScore": 60.98,
+      "rankingStrength": 90,
+      "strongOppRate": 51.22
+    },
+    "dominanceScore": 76.21
+  },
+  "XUNYAO SHI": {
+    "metrics": {
+      "techPressure": 64.23,
+      "stability": 58.97,
+      "foreignControl": 70.85,
+      "eventPerformanceScore": 58.19,
+      "rankingStrength": 82,
+      "strongOppRate": 36.38
+    },
+    "dominanceScore": 71.26
+  },
+  "YUXUAN QIN": {
+    "metrics": {
+      "techPressure": 53.09,
+      "stability": 53.53,
+      "foreignControl": 58.46,
+      "eventPerformanceScore": 52.1,
+      "rankingStrength": 70,
+      "strongOppRate": 42
+    },
+    "dominanceScore": 63.75
+  },
+  "ZHUOJIA HE": {
+    "metrics": {
+      "techPressure": 54.9,
+      "stability": 50.4,
+      "foreignControl": 69.49,
+      "eventPerformanceScore": 59.53,
+      "rankingStrength": 70,
+      "strongOppRate": 29.09
+    },
+    "dominanceScore": 65.57
+  },
+  "WEISHAN LIU": {
+    "metrics": {
+      "techPressure": 59.57,
+      "stability": 53.99,
+      "foreignControl": 65.07,
+      "eventPerformanceScore": 59.28,
+      "rankingStrength": 60,
+      "strongOppRate": 45
+    },
+    "dominanceScore": 65.73
+  }
+}

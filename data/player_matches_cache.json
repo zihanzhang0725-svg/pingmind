@@ -1,0 +1,250 @@
+{
+  "Hugo CALDERANO__BRA": {
+    "name": "Hugo CALDERANO",
+    "updatedAt": "2026-02-04T09:55:31.384Z",
+    "matches": [
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / Final",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "10:12 11:9 6:11 8:11 11:8 14:12 4:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / SemiFinal",
+        "opponent": "SHU Dean (NZL)",
+        "score": "9:11 9:11 9:11 11:7 7:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / SemiFinal",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "11:6 11:3 11:13 11:7 11:3",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / QuarterFinal",
+        "opponent": "SHU Dean (NZL)",
+        "score": "11:4 11:1 11:8 11:7",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / QuarterFinal",
+        "opponent": "PAMBRUN Ariinui (PYF)",
+        "score": "1:11 2:11 5:11 7:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "DEY Jeremy (NCL)",
+        "score": "11:5 9:11 11:4 6:11 11:9",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "LUU Finn (AUS)",
+        "score": "11:7 11:5 11:3",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "PAMBRUN Ariinui (PYF)",
+        "score": "11:9 11:7 11:5",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "11:6 11:9 8:11 11:8",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "CHOI Timothy (NZL)",
+        "score": "11:6 11:2 11:5",
+        "result": "L",
+        "subEvent": "MS"
+      }
+    ],
+    "source": "results.ittf.link",
+    "playerId": "90000",
+    "meta": {
+      "headers": [
+        "year",
+        "event",
+        "player a",
+        "player b",
+        "player x",
+        "player y",
+        "sub-event",
+        "stage",
+        "round",
+        "result",
+        "games",
+        "winner",
+        "winner",
+        ""
+      ],
+      "matchesUrl": "https://results.ittf.link/index.php/player-matches/list/31?abc=90000&resetfilters=1&vw_matches___wo[value][]=0",
+      "countryUsed": "BRA"
+    }
+  },
+  "Hugo CALDERANO": {
+    "name": "Hugo CALDERANO",
+    "updatedAt": "2026-02-05T03:19:16.632Z",
+    "matches": [],
+    "source": "results.ittf.link",
+    "error": "playerId not found"
+  },
+  "Truls MOREGARD": {
+    "name": "Truls MOREGARD",
+    "updatedAt": "2026-02-04T10:16:59.027Z",
+    "matches": [
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / Final",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "10:12 11:9 6:11 8:11 11:8 14:12 4:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / SemiFinal",
+        "opponent": "SHU Dean (NZL)",
+        "score": "9:11 9:11 9:11 11:7 7:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / SemiFinal",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "11:6 11:3 11:13 11:7 11:3",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / QuarterFinal",
+        "opponent": "SHU Dean (NZL)",
+        "score": "11:4 11:1 11:8 11:7",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Main Draw / QuarterFinal",
+        "opponent": "PAMBRUN Ariinui (PYF)",
+        "score": "1:11 2:11 5:11 7:11",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "DEY Jeremy (NCL)",
+        "score": "11:5 9:11 11:4 6:11 11:9",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "LUU Finn (AUS)",
+        "score": "11:7 11:5 11:3",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "PAMBRUN Ariinui (PYF)",
+        "score": "11:9 11:7 11:5",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "LUM Nicholas (AUS)",
+        "score": "11:6 11:9 8:11 11:8",
+        "result": "L",
+        "subEvent": "MS"
+      },
+      {
+        "date": "2026",
+        "event": "ITTF-Oceania Cup Christchurch 2026",
+        "round": "Qualification",
+        "opponent": "CHOI Timothy (NZL)",
+        "score": "11:6 11:2 11:5",
+        "result": "L",
+        "subEvent": "MS"
+      }
+    ],
+    "source": "results.ittf.link",
+    "playerId": "90000"
+  },
+  "livesport::https://www.livesport.com/en/player/calderano-hugo/GSJm6R3k/": {
+    "ok": true,
+    "name": "Hugo CALDERANO",
+    "updatedAt": "2026-02-07T04:33:31.418Z",
+    "source": "livesport",
+    "playerUrl": "https://www.livesport.com/en/player/calderano-hugo/GSJm6R3k/",
+    "resultsUrl": "https://www.livesport.com/en/player/calderano-hugo/GSJm6R3k/results/",
+    "years": 2,
+    "count": 1,
+    "matches": [
+      {
+        "date": "",
+        "event": "",
+        "round": "",
+        "opponent": "",
+        "score": "0:9",
+        "result": "",
+        "subEvent": ""
+      }
+    ],
+    "meta": {
+      "used": "axios",
+      "pyMeta": null
+    }
+  }
+}

@@ -1,0 +1,3242 @@
+{
+  "Hugo CALDERANO": {
+    "totalMatches": 73,
+    "parsedMatches": 73,
+    "weightedMatches": 56.9472,
+    "weightedWins": 44.9203,
+    "winRate": 0.7888,
+    "dominantWinRate": 0.3697,
+    "closeRatio": 0.2821,
+    "closeWinRate": 0.5881,
+    "intensityRatio": 0.6181,
+    "china": {
+      "chinaMatchCount": 10,
+      "chinaWinCount": 5,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 34.826553,
+      "chinaLossImpactRaw": 8.968215
+    },
+    "metrics": {
+      "speed": 63.01018363564623,
+      "technique": 78.880516249334,
+      "tactics": 52.99585032741972,
+      "mental": 58.49448504436634,
+      "chinaImpact": 81.1119654281598,
+      "experience": 82.29
+    },
+    "threatScore": 79.87
+  },
+  "Truls MOREGARD": {
+    "totalMatches": 49,
+    "parsedMatches": 49,
+    "weightedMatches": 41.6586,
+    "weightedWins": 30.6316,
+    "winRate": 0.7353,
+    "dominantWinRate": 0.3367,
+    "closeRatio": 0.2405,
+    "closeWinRate": 0.5777,
+    "intensityRatio": 0.6487,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 1,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 16.22869,
+      "chinaLossImpactRaw": 10.340717
+    },
+    "metrics": {
+      "speed": 62.246612660760555,
+      "technique": 73.53001037003449,
+      "tactics": 50.079346010300696,
+      "mental": 57.1782168380578,
+      "chinaImpact": 56.318291566636844,
+      "experience": 60.2
+    },
+    "threatScore": 75.26
+  },
+  "HARIMOTO Tomokazu": {
+    "totalMatches": 81,
+    "parsedMatches": 81,
+    "weightedMatches": 63.6838,
+    "weightedWins": 46.9863,
+    "winRate": 0.7378,
+    "dominantWinRate": 0.4456,
+    "closeRatio": 0.2981,
+    "closeWinRate": 0.604,
+    "intensityRatio": 0.5333,
+    "china": {
+      "chinaMatchCount": 17,
+      "chinaWinCount": 10,
+      "chinaLossCount": 7,
+      "chinaImpactRaw": 68.683581,
+      "chinaLossImpactRaw": 9.309971
+    },
+    "metrics": {
+      "speed": 58.19707171621184,
+      "technique": 73.78058219954133,
+      "tactics": 55.94460768294665,
+      "mental": 58.58685984901643,
+      "chinaImpact": 94.11835283182823,
+      "experience": 92.03
+    },
+    "threatScore": 80.83
+  },
+  "LEBRUN Felix": {
+    "totalMatches": 63,
+    "parsedMatches": 63,
+    "weightedMatches": 50.5484,
+    "weightedWins": 37.7233,
+    "winRate": 0.7463,
+    "dominantWinRate": 0.5042,
+    "closeRatio": 0.2754,
+    "closeWinRate": 0.4496,
+    "intensityRatio": 0.5065,
+    "china": {
+      "chinaMatchCount": 7,
+      "chinaWinCount": 4,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 23.627874,
+      "chinaLossImpactRaw": 5.755255
+    },
+    "metrics": {
+      "speed": 54.73177350636976,
+      "technique": 74.62817220702036,
+      "tactics": 53.34930981420971,
+      "mental": 47.34341518210838,
+      "chinaImpact": 68.83939400658079,
+      "experience": 73.05
+    },
+    "threatScore": 76.32
+  },
+  "MATSUSHIMA Sora": {
+    "totalMatches": 60,
+    "parsedMatches": 60,
+    "weightedMatches": 47.1554,
+    "weightedWins": 31.0569,
+    "winRate": 0.6586,
+    "dominantWinRate": 0.5935,
+    "closeRatio": 0.241,
+    "closeWinRate": 0.4705,
+    "intensityRatio": 0.5272,
+    "china": {
+      "chinaMatchCount": 9,
+      "chinaWinCount": 4,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 25.163203,
+      "chinaLossImpactRaw": 11.922243
+    },
+    "metrics": {
+      "speed": 53.77388119716772,
+      "technique": 65.8607142728762,
+      "tactics": 56.34579716194573,
+      "mental": 47.814423840070255,
+      "chinaImpact": 77.67361319203374,
+      "experience": 68.14
+    },
+    "threatScore": 75.64
+  },
+  "LIN Yun-Ju": {
+    "totalMatches": 55,
+    "parsedMatches": 55,
+    "weightedMatches": 45.034,
+    "weightedWins": 33.5323,
+    "winRate": 0.7446,
+    "dominantWinRate": 0.5015,
+    "closeRatio": 0.2217,
+    "closeWinRate": 0.7492,
+    "intensityRatio": 0.7037,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 4,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 20.679954,
+      "chinaLossImpactRaw": 7.353977
+    },
+    "metrics": {
+      "speed": 64.77961090831577,
+      "technique": 74.45986187613624,
+      "tactics": 63.682993488601966,
+      "mental": 68.62098721867551,
+      "chinaImpact": 73.57942038479383,
+      "experience": 65.08
+    },
+    "threatScore": 79.48
+  },
+  "Alexis LEBRUN": {
+    "totalMatches": 46,
+    "parsedMatches": 46,
+    "weightedMatches": 37.0253,
+    "weightedWins": 26.0409,
+    "winRate": 0.7033,
+    "dominantWinRate": 0.5097,
+    "closeRatio": 0.3088,
+    "closeWinRate": 0.601,
+    "intensityRatio": 0.5419,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 2,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 13.697706,
+      "chinaLossImpactRaw": 5.863459
+    },
+    "metrics": {
+      "speed": 59.55210499284892,
+      "technique": 70.3326915063605,
+      "tactics": 58.03977022744663,
+      "mental": 57.48504242505214,
+      "chinaImpact": 56.002291807817144,
+      "experience": 53.5
+    },
+    "threatScore": 74.85
+  },
+  "Dang QIU": {
+    "totalMatches": 64,
+    "parsedMatches": 64,
+    "weightedMatches": 51.3294,
+    "weightedWins": 34.0807,
+    "winRate": 0.664,
+    "dominantWinRate": 0.4296,
+    "closeRatio": 0.2844,
+    "closeWinRate": 0.5805,
+    "intensityRatio": 0.6467,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 3,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 17.042212,
+      "chinaLossImpactRaw": 0.893794
+    },
+    "metrics": {
+      "speed": 65.18096300684901,
+      "technique": 66.39604344146692,
+      "tactics": 52.92985626864151,
+      "mental": 56.32261641015375,
+      "chinaImpact": 48.51463915095752,
+      "experience": 74.17
+    },
+    "threatScore": 75.36
+  },
+  "JANG Woojin": {
+    "totalMatches": 43,
+    "parsedMatches": 43,
+    "weightedMatches": 38.2258,
+    "weightedWins": 21.8291,
+    "winRate": 0.5711,
+    "dominantWinRate": 0.3042,
+    "closeRatio": 0.3867,
+    "closeWinRate": 0.5293,
+    "intensityRatio": 0.766,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 3,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 27.16915,
+      "chinaLossImpactRaw": 6.99446
+    },
+    "metrics": {
+      "speed": 80.6899279613705,
+      "technique": 57.10562291961244,
+      "tactics": 43.637407918367686,
+      "mental": 52.3076676039651,
+      "chinaImpact": 73.6340053626163,
+      "experience": 55.24
+    },
+    "threatScore": 73.65
+  },
+  "Benedikt DUDA": {
+    "totalMatches": 72,
+    "parsedMatches": 72,
+    "weightedMatches": 54.2022,
+    "weightedWins": 33.0843,
+    "winRate": 0.6104,
+    "dominantWinRate": 0.4542,
+    "closeRatio": 0.2484,
+    "closeWinRate": 0.3881,
+    "intensityRatio": 0.4301,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 1,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 10.363474,
+      "chinaLossImpactRaw": 6.923726
+    },
+    "metrics": {
+      "speed": 47.49490172672961,
+      "technique": 61.03859709151909,
+      "tactics": 46.23148123825253,
+      "mental": 41.37315864135644,
+      "chinaImpact": 54.814732284427045,
+      "experience": 78.33
+    },
+    "threatScore": 71.97
+  },
+  "Darko JORGIC": {
+    "totalMatches": 83,
+    "parsedMatches": 83,
+    "weightedMatches": 61.6442,
+    "weightedWins": 37.1533,
+    "winRate": 0.6027,
+    "dominantWinRate": 0.3728,
+    "closeRatio": 0.2295,
+    "closeWinRate": 0.4951,
+    "intensityRatio": 0.3359,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 2,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 17.364919,
+      "chinaLossImpactRaw": 4.115808
+    },
+    "metrics": {
+      "speed": 39.57767962724219,
+      "technique": 60.27056862476346,
+      "tactics": 46.155777420090935,
+      "mental": 49.61640554365293,
+      "chinaImpact": 63.04536874608866,
+      "experience": 89.08
+    },
+    "threatScore": 74.12
+  },
+  "AN Jaehyun": {
+    "totalMatches": 49,
+    "parsedMatches": 49,
+    "weightedMatches": 35.9708,
+    "weightedWins": 20.1697,
+    "winRate": 0.5607,
+    "dominantWinRate": 0.2401,
+    "closeRatio": 0.3326,
+    "closeWinRate": 0.6284,
+    "intensityRatio": 0.4316,
+    "china": {
+      "chinaMatchCount": 9,
+      "chinaWinCount": 2,
+      "chinaLossCount": 7,
+      "chinaImpactRaw": 13.937767,
+      "chinaLossImpactRaw": 8.349662
+    },
+    "metrics": {
+      "speed": 53.497731989774685,
+      "technique": 56.07225052287833,
+      "tactics": 44.01306796058113,
+      "mental": 59.62069350787489,
+      "chinaImpact": 77.00744529247046,
+      "experience": 51.98
+    },
+    "threatScore": 72.72
+  },
+  "Simon GAUZY": {
+    "totalMatches": 63,
+    "parsedMatches": 63,
+    "weightedMatches": 47.6598,
+    "weightedWins": 29.8558,
+    "winRate": 0.6264,
+    "dominantWinRate": 0.399,
+    "closeRatio": 0.3428,
+    "closeWinRate": 0.5507,
+    "intensityRatio": 0.4289,
+    "china": {
+      "chinaMatchCount": 7,
+      "chinaWinCount": 3,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 18.7663,
+      "chinaLossImpactRaw": 6.976439
+    },
+    "metrics": {
+      "speed": 54.017432332836954,
+      "technique": 62.643598829548075,
+      "tactics": 49.7611917032012,
+      "mental": 54.0765026048416,
+      "chinaImpact": 68.74848346301381,
+      "experience": 68.87
+    },
+    "threatScore": 74.66
+  },
+  "Anders LIND": {
+    "totalMatches": 56,
+    "parsedMatches": 56,
+    "weightedMatches": 44.1025,
+    "weightedWins": 24.0984,
+    "winRate": 0.5464,
+    "dominantWinRate": 0.4282,
+    "closeRatio": 0.2261,
+    "closeWinRate": 0.6994,
+    "intensityRatio": 0.4918,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 3,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 23.238613,
+      "chinaLossImpactRaw": 2.608831
+    },
+    "metrics": {
+      "speed": 50.25403944879242,
+      "technique": 54.6416603227801,
+      "tactics": 54.675703262664946,
+      "mental": 64.22846538182301,
+      "chinaImpact": 63.19071818118182,
+      "experience": 63.73
+    },
+    "threatScore": 74.07
+  },
+  "Patrick FRANZISKA": {
+    "totalMatches": 59,
+    "parsedMatches": 59,
+    "weightedMatches": 42.3153,
+    "weightedWins": 24.0162,
+    "winRate": 0.5676,
+    "dominantWinRate": 0.2998,
+    "closeRatio": 0.4521,
+    "closeWinRate": 0.645,
+    "intensityRatio": 0.3316,
+    "china": {
+      "chinaMatchCount": 7,
+      "chinaWinCount": 4,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 22.477442,
+      "chinaLossImpactRaw": 3.34005
+    },
+    "metrics": {
+      "speed": 54.85959961232198,
+      "technique": 56.75537896223871,
+      "tactics": 47.417677858949745,
+      "mental": 61.995569870102166,
+      "chinaImpact": 68.82933798724781,
+      "experience": 61.15
+    },
+    "threatScore": 73.82
+  },
+  "TOGAMI Shunsuke": {
+    "totalMatches": 61,
+    "parsedMatches": 61,
+    "weightedMatches": 46.8332,
+    "weightedWins": 31.2102,
+    "winRate": 0.6664,
+    "dominantWinRate": 0.5006,
+    "closeRatio": 0.3765,
+    "closeWinRate": 0.4359,
+    "intensityRatio": 0.3862,
+    "china": {
+      "chinaMatchCount": 9,
+      "chinaWinCount": 3,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 22.820268,
+      "chinaLossImpactRaw": 7.558791
+    },
+    "metrics": {
+      "speed": 53.38341039582133,
+      "technique": 66.64116059187288,
+      "tactics": 51.11254563174204,
+      "mental": 44.77827360392201,
+      "chinaImpact": 77.65662520493458,
+      "experience": 67.68
+    },
+    "threatScore": 74.83
+  },
+  "Kanak JHA": {
+    "totalMatches": 38,
+    "parsedMatches": 38,
+    "weightedMatches": 27.8537,
+    "weightedWins": 11.7101,
+    "winRate": 0.4204,
+    "dominantWinRate": 0.2812,
+    "closeRatio": 0.4268,
+    "closeWinRate": 0.4527,
+    "intensityRatio": 0.5316,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 1.777163,
+      "chinaLossImpactRaw": 1.777163
+    },
+    "metrics": {
+      "speed": 67.08456247233698,
+      "technique": 42.04141480493993,
+      "tactics": 36.906256770120194,
+      "mental": 46.46184855937099,
+      "chinaImpact": 6.334654570909241,
+      "experience": 40.25
+    },
+    "threatScore": 59.7
+  },
+  "OH Junsung": {
+    "totalMatches": 47,
+    "parsedMatches": 47,
+    "weightedMatches": 37.3095,
+    "weightedWins": 19.4056,
+    "winRate": 0.5201,
+    "dominantWinRate": 0.3574,
+    "closeRatio": 0.2365,
+    "closeWinRate": 0.5114,
+    "intensityRatio": 0.6139,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 2,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 11.693396,
+      "chinaLossImpactRaw": 3.415406
+    },
+    "metrics": {
+      "speed": 59.52706830480117,
+      "technique": 52.01239678021853,
+      "tactics": 44.385299250297294,
+      "mental": 50.78204660774972,
+      "chinaImpact": 55.45606199648882,
+      "experience": 53.91
+    },
+    "threatScore": 69.72
+  },
+  "Dimitrij OVTCHAROV": {
+    "totalMatches": 56,
+    "parsedMatches": 56,
+    "weightedMatches": 44.1349,
+    "weightedWins": 25.3508,
+    "winRate": 0.5744,
+    "dominantWinRate": 0.4785,
+    "closeRatio": 0.3041,
+    "closeWinRate": 0.4424,
+    "intensityRatio": 0.6166,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 3,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 20.63476,
+      "chinaLossImpactRaw": 3.733682
+    },
+    "metrics": {
+      "speed": 64.44964660302192,
+      "technique": 57.43939467569883,
+      "tactics": 48.50161556734231,
+      "mental": 46.25859014438857,
+      "chinaImpact": 73.57845001037826,
+      "experience": 63.78
+    },
+    "threatScore": 73.37
+  },
+  "UDA Yukiya": {
+    "totalMatches": 43,
+    "parsedMatches": 43,
+    "weightedMatches": 33.8395,
+    "weightedWins": 15.7732,
+    "winRate": 0.4661,
+    "dominantWinRate": 0.3082,
+    "closeRatio": 0.3775,
+    "closeWinRate": 0.3628,
+    "intensityRatio": 0.559,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 1,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 8.314816,
+      "chinaLossImpactRaw": 5.46223
+    },
+    "metrics": {
+      "speed": 65.55373058308305,
+      "technique": 46.611850943189545,
+      "tactics": 35.89303761946645,
+      "mental": 39.554945799694416,
+      "chinaImpact": 53.013453914331976,
+      "experience": 48.9
+    },
+    "threatScore": 65.63
+  },
+  "Tomislav PUCAR": {
+    "totalMatches": 53,
+    "parsedMatches": 53,
+    "weightedMatches": 41.6291,
+    "weightedWins": 21.9978,
+    "winRate": 0.5284,
+    "dominantWinRate": 0.4451,
+    "closeRatio": 0.2285,
+    "closeWinRate": 0.5417,
+    "intensityRatio": 0.4179,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 1,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 4.685834,
+      "chinaLossImpactRaw": 2.608599
+    },
+    "metrics": {
+      "speed": 45.24695926956036,
+      "technique": 52.84241770901905,
+      "tactics": 49.55760762859014,
+      "mental": 52.93649415934,
+      "chinaImpact": 30.705317011908246,
+      "experience": 60.16
+    },
+    "threatScore": 68.23
+  },
+  "Anton KALLBERG": {
+    "totalMatches": 48,
+    "parsedMatches": 48,
+    "weightedMatches": 36.3683,
+    "weightedWins": 21.0369,
+    "winRate": 0.5784,
+    "dominantWinRate": 0.3721,
+    "closeRatio": 0.2605,
+    "closeWinRate": 0.5054,
+    "intensityRatio": 0.4172,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 2,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 15.501891,
+      "chinaLossImpactRaw": 5.638768
+    },
+    "metrics": {
+      "speed": 47.437693956321915,
+      "technique": 57.84387317424802,
+      "tactics": 46.00351600242334,
+      "mental": 50.380512118587205,
+      "chinaImpact": 62.892152308174595,
+      "experience": 52.55
+    },
+    "threatScore": 70.52
+  },
+  "SHINOZUKA Hiroto": {
+    "totalMatches": 52,
+    "parsedMatches": 52,
+    "weightedMatches": 39.9933,
+    "weightedWins": 20.6231,
+    "winRate": 0.5157,
+    "dominantWinRate": 0.2494,
+    "closeRatio": 0.252,
+    "closeWinRate": 0.5451,
+    "intensityRatio": 0.5182,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 2.627614,
+      "chinaLossImpactRaw": 2.627614
+    },
+    "metrics": {
+      "speed": 53.9148100334062,
+      "technique": 51.566533059003326,
+      "tactics": 40.61658907652985,
+      "mental": 53.22775720704307,
+      "chinaImpact": 27.111345350864443,
+      "experience": 57.79
+    },
+    "threatScore": 66.88
+  },
+  "Omar ASSAR": {
+    "totalMatches": 24,
+    "parsedMatches": 24,
+    "weightedMatches": 20.314,
+    "weightedWins": 6.38,
+    "winRate": 0.3141,
+    "dominantWinRate": 0.2572,
+    "closeRatio": 0.1815,
+    "closeWinRate": 0.4499,
+    "intensityRatio": 0.7156,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 4.479096,
+      "chinaLossImpactRaw": 4.479096
+    },
+    "metrics": {
+      "speed": 62.795887357820725,
+      "technique": 31.406763078407902,
+      "tactics": 33.605629575369214,
+      "mental": 47.599344471117924,
+      "chinaImpact": 37.18415724465813,
+      "experience": 29.36
+    },
+    "threatScore": 58.7
+  },
+  "COTON Flavien": {
+    "totalMatches": 29,
+    "parsedMatches": 29,
+    "weightedMatches": 25.8058,
+    "weightedWins": 14.2274,
+    "winRate": 0.5513,
+    "dominantWinRate": 0.3138,
+    "closeRatio": 0.1847,
+    "closeWinRate": 0.571,
+    "intensityRatio": 0.8571,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 4.161979,
+      "chinaLossImpactRaw": 4.161979
+    },
+    "metrics": {
+      "speed": 72.92569771363702,
+      "technique": 55.132597193730724,
+      "tactics": 45.13437087140029,
+      "mental": 53.86070172192659,
+      "chinaImpact": 35.8647510006299,
+      "experience": 37.29
+    },
+    "threatScore": 67.94
+  },
+  "Quadri ARUNA": {
+    "totalMatches": 28,
+    "parsedMatches": 28,
+    "weightedMatches": 22.6808,
+    "weightedWins": 7.778,
+    "winRate": 0.3429,
+    "dominantWinRate": 0.3448,
+    "closeRatio": 0.1852,
+    "closeWinRate": 0.1564,
+    "intensityRatio": 0.7577,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 2,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 9.739226,
+      "chinaLossImpactRaw": 3.711626
+    },
+    "metrics": {
+      "speed": 66.0021660126863,
+      "technique": 34.293112624954354,
+      "tactics": 27.846829537193653,
+      "mental": 32.39910893593142,
+      "chinaImpact": 46.811686151403684,
+      "experience": 32.78
+    },
+    "threatScore": 57.58
+  },
+  "Manav THAKKAR": {
+    "totalMatches": 41,
+    "parsedMatches": 41,
+    "weightedMatches": 31.8826,
+    "weightedWins": 14.7995,
+    "winRate": 0.4642,
+    "dominantWinRate": 0.3148,
+    "closeRatio": 0.2722,
+    "closeWinRate": 0.816,
+    "intensityRatio": 0.646,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 4.005674,
+      "chinaLossImpactRaw": 4.005674
+    },
+    "metrics": {
+      "speed": 64.27713380513863,
+      "technique": 46.41889361314501,
+      "tactics": 52.008805751196675,
+      "mental": 71.63150429127299,
+      "chinaImpact": 35.16110605306567,
+      "experience": 46.07
+    },
+    "threatScore": 70.14
+  },
+  "PORET Thibault": {
+    "totalMatches": 37,
+    "parsedMatches": 37,
+    "weightedMatches": 30.2182,
+    "weightedWins": 16.8538,
+    "winRate": 0.5577,
+    "dominantWinRate": 0.3221,
+    "closeRatio": 0.3882,
+    "closeWinRate": 0.5205,
+    "intensityRatio": 0.7095,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 1,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 5.777312,
+      "chinaLossImpactRaw": 2.689598
+    },
+    "metrics": {
+      "speed": 76.83882391168278,
+      "technique": 55.77391939491358,
+      "tactics": 43.86388966192461,
+      "mental": 51.526642834547786,
+      "chinaImpact": 41.32704218887075,
+      "experience": 43.67
+    },
+    "threatScore": 69.11
+  },
+  "TANAKA Yuta": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "REDZIMSKI Milosz": {
+    "totalMatches": 34,
+    "parsedMatches": 34,
+    "weightedMatches": 24.6921,
+    "weightedWins": 13.2008,
+    "winRate": 0.5346,
+    "dominantWinRate": 0.5375,
+    "closeRatio": 0.3346,
+    "closeWinRate": 0.3668,
+    "intensityRatio": 0.4271,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 4.306445,
+      "chinaLossImpactRaw": 4.306445
+    },
+    "metrics": {
+      "speed": 53.320564536692025,
+      "technique": 53.46147156457327,
+      "tactics": 47.7176496079737,
+      "mental": 41.02558388493953,
+      "chinaImpact": 21.254043374004134,
+      "experience": 35.68
+    },
+    "threatScore": 62.73
+  },
+  "Jonathan GROTH": {
+    "totalMatches": 32,
+    "parsedMatches": 32,
+    "weightedMatches": 24.351,
+    "weightedWins": 10.882,
+    "winRate": 0.4469,
+    "dominantWinRate": 0.1861,
+    "closeRatio": 0.2777,
+    "closeWinRate": 0.6718,
+    "intensityRatio": 0.6097,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 5.802852,
+      "chinaLossImpactRaw": 5.802852
+    },
+    "metrics": {
+      "speed": 62.123122573012864,
+      "technique": 44.68835464200458,
+      "tactics": 40.82703479663341,
+      "mental": 60.79668186939837,
+      "chinaImpact": 33.47080038874618,
+      "experience": 35.19
+    },
+    "threatScore": 65.17
+  },
+  "Kristian KARLSSON": {
+    "totalMatches": 58,
+    "parsedMatches": 58,
+    "weightedMatches": 41.0876,
+    "weightedWins": 25.0448,
+    "winRate": 0.6095,
+    "dominantWinRate": 0.3249,
+    "closeRatio": 0.2755,
+    "closeWinRate": 0.488,
+    "intensityRatio": 0.4011,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 2.942006,
+      "chinaLossImpactRaw": 2.942006
+    },
+    "metrics": {
+      "speed": 47.361033143995556,
+      "technique": 60.95465305053532,
+      "tactics": 43.88875773067449,
+      "mental": 49.111673833832114,
+      "chinaImpact": 23.673664406331586,
+      "experience": 59.37
+    },
+    "threatScore": 67.76
+  },
+  "LUM Nicholas": {
+    "totalMatches": 11,
+    "parsedMatches": 11,
+    "weightedMatches": 8.629,
+    "weightedWins": 0.708,
+    "winRate": 0.082,
+    "dominantWinRate": 0,
+    "closeRatio": 0.082,
+    "closeWinRate": 1,
+    "intensityRatio": 0.6935,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 2.570387,
+      "chinaLossImpactRaw": 2.570387
+    },
+    "metrics": {
+      "speed": 54.28648957386633,
+      "technique": 8.20448293280418,
+      "tactics": 36.640896586560835,
+      "mental": 57.518801262198494,
+      "chinaImpact": 21.585463137920613,
+      "experience": 12.47
+    },
+    "threatScore": 49.55
+  },
+  "IONESCU Eduard": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "Ricardo WALTHER": {
+    "totalMatches": 30,
+    "parsedMatches": 30,
+    "weightedMatches": 20.5495,
+    "weightedWins": 9.3462,
+    "winRate": 0.4548,
+    "dominantWinRate": 0.4836,
+    "closeRatio": 0.2399,
+    "closeWinRate": 0.1473,
+    "intensityRatio": 0.365,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 1.670991,
+      "chinaLossImpactRaw": 1.670991
+    },
+    "metrics": {
+      "speed": 42.344963936131144,
+      "technique": 45.481472002973575,
+      "tactics": 36.01181360023165,
+      "mental": 30.52956367261972,
+      "chinaImpact": 11.108459986685958,
+      "experience": 29.7
+    },
+    "threatScore": 53.77
+  },
+  "WONG Chun Ting": {
+    "totalMatches": 40,
+    "parsedMatches": 40,
+    "weightedMatches": 29.4635,
+    "weightedWins": 14.296,
+    "winRate": 0.4852,
+    "dominantWinRate": 0.235,
+    "closeRatio": 0.2563,
+    "closeWinRate": 0.6213,
+    "intensityRatio": 0.3641,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 1,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 8.370549,
+      "chinaLossImpactRaw": 5.630688
+    },
+    "metrics": {
+      "speed": 43.42736865309366,
+      "technique": 48.5210217034831,
+      "tactics": 42.02606528902979,
+      "mental": 57.93157275904653,
+      "chinaImpact": 59.34501925106748,
+      "experience": 42.58
+    },
+    "threatScore": 67.73
+  },
+  "KAO Cheng-Jui": {
+    "totalMatches": 31,
+    "parsedMatches": 31,
+    "weightedMatches": 22.1101,
+    "weightedWins": 9.1827,
+    "winRate": 0.4153,
+    "dominantWinRate": 0.2532,
+    "closeRatio": 0.2648,
+    "closeWinRate": 0.5372,
+    "intensityRatio": 0.5058,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 7.44527,
+      "chinaLossImpactRaw": 7.44527
+    },
+    "metrics": {
+      "speed": 53.94190362456489,
+      "technique": 41.53180344181514,
+      "tactics": 38.504644055931664,
+      "mental": 52.21218320042985,
+      "chinaImpact": 44.54975780529078,
+      "experience": 31.95
+    },
+    "threatScore": 62.93
+  },
+  "Lilian BARDET": {
+    "totalMatches": 35,
+    "parsedMatches": 35,
+    "weightedMatches": 26.7989,
+    "weightedWins": 10.0373,
+    "winRate": 0.3745,
+    "dominantWinRate": 0.3413,
+    "closeRatio": 0.2967,
+    "closeWinRate": 0.383,
+    "intensityRatio": 0.551,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 2,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 14.207308,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 59.34212396218528,
+      "technique": 37.453958756217354,
+      "tactics": 36.25747366824055,
+      "mental": 42.21842092445569,
+      "chinaImpact": 28.12122562627721,
+      "experience": 38.73
+    },
+    "threatScore": 59.51
+  },
+  "LUU Finn": {
+    "totalMatches": 16,
+    "parsedMatches": 16,
+    "weightedMatches": 12.153,
+    "weightedWins": 0.8372,
+    "winRate": 0.0689,
+    "dominantWinRate": 0,
+    "closeRatio": 0.0423,
+    "closeWinRate": 0,
+    "intensityRatio": 0.6615,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.592164,
+      "chinaLossImpactRaw": 0.592164
+    },
+    "metrics": {
+      "speed": 49.26853772287839,
+      "technique": 6.889214821368066,
+      "tactics": 1.3778429642736132,
+      "mental": 44.3057364020029,
+      "chinaImpact": 2.2350316231568748,
+      "experience": 17.56
+    },
+    "threatScore": 34.7
+  },
+  "Youssef ABDELAZIZ": {
+    "totalMatches": 9,
+    "parsedMatches": 9,
+    "weightedMatches": 7.1735,
+    "weightedWins": 1.3242,
+    "winRate": 0.1846,
+    "dominantWinRate": 0,
+    "closeRatio": 0.3326,
+    "closeWinRate": 0.555,
+    "intensityRatio": 0.5454,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.333407,
+      "chinaLossImpactRaw": 0.333407
+    },
+    "metrics": {
+      "speed": 61.45729373009236,
+      "technique": 18.460203279217957,
+      "tactics": 23.118633635398435,
+      "mental": 52.05657034067882,
+      "chinaImpact": 1.2145114736098999,
+      "experience": 10.37
+    },
+    "threatScore": 45.61
+  },
+  "CHO Daeseong": {
+    "totalMatches": 26,
+    "parsedMatches": 26,
+    "weightedMatches": 19.7089,
+    "weightedWins": 8.9867,
+    "winRate": 0.456,
+    "dominantWinRate": 0.4914,
+    "closeRatio": 0.3556,
+    "closeWinRate": 0.2485,
+    "intensityRatio": 0.5532,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 1.047585,
+      "chinaLossImpactRaw": 1.047585
+    },
+    "metrics": {
+      "speed": 63.616754156834105,
+      "technique": 45.59725846239367,
+      "tactics": 39.93073612545018,
+      "mental": 33.9908701246986,
+      "chinaImpact": 10.11674261891611,
+      "experience": 28.48
+    },
+    "threatScore": 56.99
+  },
+  "Vladimir SIDORENKO": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "FENG Yi-Hsin": {
+    "totalMatches": 49,
+    "parsedMatches": 49,
+    "weightedMatches": 32.4326,
+    "weightedWins": 16.5266,
+    "winRate": 0.5096,
+    "dominantWinRate": 0.3883,
+    "closeRatio": 0.2476,
+    "closeWinRate": 0.2692,
+    "intensityRatio": 0.2792,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 5.040614,
+      "chinaLossImpactRaw": 5.040614
+    },
+    "metrics": {
+      "speed": 36.87717755598402,
+      "technique": 50.956841109943795,
+      "tactics": 37.08874860719115,
+      "mental": 34.59571961504636,
+      "chinaImpact": 31.69969265130979,
+      "experience": 46.87
+    },
+    "threatScore": 60.86
+  },
+  "Leo DE NODREST": {
+    "totalMatches": 27,
+    "parsedMatches": 27,
+    "weightedMatches": 19.819,
+    "weightedWins": 12.112,
+    "winRate": 0.6111,
+    "dominantWinRate": 0.4747,
+    "closeRatio": 0.186,
+    "closeWinRate": 0.6283,
+    "intensityRatio": 0.3955,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.819408,
+      "chinaLossImpactRaw": 0.819408
+    },
+    "metrics": {
+      "speed": 40.70344041918303,
+      "technique": 61.11311133375024,
+      "tactics": 55.57382472321307,
+      "mental": 56.15396659056493,
+      "chinaImpact": 3.1078234376700262,
+      "experience": 28.64
+    },
+    "threatScore": 63.92
+  },
+  "Aditya SAREEN": {
+    "totalMatches": 10,
+    "parsedMatches": 10,
+    "weightedMatches": 7.5292,
+    "weightedWins": 1.0055,
+    "winRate": 0.1335,
+    "dominantWinRate": 0,
+    "closeRatio": 0.2586,
+    "closeWinRate": 0.5164,
+    "intensityRatio": 0.5123,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 1.523283,
+      "chinaLossImpactRaw": 1.523283
+    },
+    "metrics": {
+      "speed": 53.961676390189716,
+      "technique": 13.354350084807296,
+      "tactics": 20.745565989624744,
+      "mental": 50.53757762993779,
+      "chinaImpact": 5.556477268270674,
+      "experience": 10.88
+    },
+    "threatScore": 43.04
+  },
+  "HAMADA Kazuki": {
+    "totalMatches": 18,
+    "parsedMatches": 18,
+    "weightedMatches": 14.2945,
+    "weightedWins": 9.4896,
+    "winRate": 0.6639,
+    "dominantWinRate": 0.3373,
+    "closeRatio": 0.4325,
+    "closeWinRate": 0.6261,
+    "intensityRatio": 0.5753,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.751661,
+      "chinaLossImpactRaw": 0.751661
+    },
+    "metrics": {
+      "speed": 70.54923627588663,
+      "technique": 66.38643780359592,
+      "tactics": 50.36986918420906,
+      "mental": 57.655046233450925,
+      "chinaImpact": 2.8510633701201273,
+      "experience": 20.66
+    },
+    "threatScore": 65.73
+  },
+  "Sathiyan GNANASEKARAN": {
+    "totalMatches": 23,
+    "parsedMatches": 23,
+    "weightedMatches": 18.5628,
+    "weightedWins": 8.4781,
+    "winRate": 0.4567,
+    "dominantWinRate": 0.2513,
+    "closeRatio": 0.2243,
+    "closeWinRate": 0.4223,
+    "intensityRatio": 0.4921,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 1.413474,
+      "chinaLossImpactRaw": 1.413474
+    },
+    "metrics": {
+      "speed": 50.153093814340785,
+      "technique": 45.67268545938626,
+      "tactics": 35.22057145573735,
+      "mental": 46.03571571505379,
+      "chinaImpact": 9.606316637431133,
+      "experience": 26.82
+    },
+    "threatScore": 56.89
+  },
+  "Adrien RASSENFOSSE": {
+    "totalMatches": 41,
+    "parsedMatches": 41,
+    "weightedMatches": 28.6997,
+    "weightedWins": 16.2379,
+    "winRate": 0.5658,
+    "dominantWinRate": 0.2718,
+    "closeRatio": 0.3032,
+    "closeWinRate": 0.7358,
+    "intensityRatio": 0.3322,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 1,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 3.778916,
+      "chinaLossImpactRaw": 0.596606
+    },
+    "metrics": {
+      "speed": 44.478317385404864,
+      "technique": 56.57878579305062,
+      "tactics": 49.29905512799591,
+      "mental": 66.15271278616282,
+      "chinaImpact": 19.849916685261896,
+      "experience": 41.47
+    },
+    "threatScore": 67.41
+  },
+  "BAE Hwan": {
+    "totalMatches": 21,
+    "parsedMatches": 21,
+    "weightedMatches": 15.9819,
+    "weightedWins": 2.629,
+    "winRate": 0.1645,
+    "dominantWinRate": 0.2035,
+    "closeRatio": 0.1274,
+    "closeWinRate": 0.7476,
+    "intensityRatio": 0.5627,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 1.356559,
+      "chinaLossImpactRaw": 1.356559
+    },
+    "metrics": {
+      "speed": 48.30749799764929,
+      "technique": 16.4496219590274,
+      "tactics": 38.6145882831193,
+      "mental": 58.353777584616886,
+      "chinaImpact": 9.25986380536469,
+      "experience": 23.09
+    },
+    "threatScore": 51.84
+  },
+  "YOSHIYAMA Ryoichi": {
+    "totalMatches": 26,
+    "parsedMatches": 26,
+    "weightedMatches": 21.6689,
+    "weightedWins": 14.9172,
+    "winRate": 0.6884,
+    "dominantWinRate": 0.5372,
+    "closeRatio": 0.141,
+    "closeWinRate": 0.5149,
+    "intensityRatio": 0.5571,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 48.865144675391576,
+      "technique": 68.84169668013543,
+      "tactics": 55.963915938159595,
+      "mental": 50.64720413632544,
+      "chinaImpact": 0,
+      "experience": 31.31
+    },
+    "threatScore": 65.28
+  },
+  "ZHU Yuling": {
+    "totalMatches": 53,
+    "parsedMatches": 53,
+    "weightedMatches": 41.8565,
+    "weightedWins": 32.3091,
+    "winRate": 0.7719,
+    "dominantWinRate": 0.3609,
+    "closeRatio": 0.1728,
+    "closeWinRate": 0.6998,
+    "intensityRatio": 0.604,
+    "china": {
+      "chinaMatchCount": 10,
+      "chinaWinCount": 5,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 35.68755,
+      "chinaLossImpactRaw": 5.492158
+    },
+    "metrics": {
+      "speed": 54.37572835457664,
+      "technique": 77.19022872894867,
+      "tactics": 56.170461434037,
+      "mental": 62.86530898491374,
+      "chinaImpact": 81.11208882861844,
+      "experience": 60.49
+    },
+    "threatScore": 78.23
+  },
+  "HARIMOTO Miwa": {
+    "totalMatches": 86,
+    "parsedMatches": 86,
+    "weightedMatches": 69.2007,
+    "weightedWins": 53.2318,
+    "winRate": 0.7692,
+    "dominantWinRate": 0.5226,
+    "closeRatio": 0.2752,
+    "closeWinRate": 0.5665,
+    "intensityRatio": 0.5876,
+    "china": {
+      "chinaMatchCount": 14,
+      "chinaWinCount": 2,
+      "chinaLossCount": 12,
+      "chinaImpactRaw": 33.110249,
+      "chinaLossImpactRaw": 19.176751
+    },
+    "metrics": {
+      "speed": 60.39823977006375,
+      "technique": 76.92370811354522,
+      "tactics": 58.730394628661266,
+      "mental": 55.49897371735556,
+      "chinaImpact": 90.30184040654625,
+      "experience": 100
+    },
+    "threatScore": 81.54
+  },
+  "ITO Mima": {
+    "totalMatches": 47,
+    "parsedMatches": 47,
+    "weightedMatches": 34.9299,
+    "weightedWins": 21.1077,
+    "winRate": 0.6043,
+    "dominantWinRate": 0.5625,
+    "closeRatio": 0.2987,
+    "closeWinRate": 0.2563,
+    "intensityRatio": 0.4812,
+    "china": {
+      "chinaMatchCount": 10,
+      "chinaWinCount": 2,
+      "chinaLossCount": 8,
+      "chinaImpactRaw": 16.623717,
+      "chinaLossImpactRaw": 10.820818
+    },
+    "metrics": {
+      "speed": 54.595033772677596,
+      "technique": 60.42886067136245,
+      "tactics": 46.36574160588043,
+      "mental": 32.81432792960817,
+      "chinaImpact": 80.83521475860493,
+      "experience": 50.48
+    },
+    "threatScore": 70.48
+  },
+  "HAYATA Hina": {
+    "totalMatches": 68,
+    "parsedMatches": 68,
+    "weightedMatches": 55.2933,
+    "weightedWins": 36.198,
+    "winRate": 0.6547,
+    "dominantWinRate": 0.4679,
+    "closeRatio": 0.3156,
+    "closeWinRate": 0.5215,
+    "intensityRatio": 0.6051,
+    "china": {
+      "chinaMatchCount": 14,
+      "chinaWinCount": 2,
+      "chinaLossCount": 12,
+      "chinaImpactRaw": 26.32652,
+      "chinaLossImpactRaw": 18.636168
+    },
+    "metrics": {
+      "speed": 64.44823913041463,
+      "technique": 65.4654834440911,
+      "tactics": 52.39902130229679,
+      "mental": 53.16273869569582,
+      "chinaImpact": 90.29245932111608,
+      "experience": 79.9
+    },
+    "threatScore": 78.22
+  },
+  "HASHIMOTO Honoka": {
+    "totalMatches": 49,
+    "parsedMatches": 49,
+    "weightedMatches": 39.9761,
+    "weightedWins": 31.3497,
+    "winRate": 0.7842,
+    "dominantWinRate": 0.6573,
+    "closeRatio": 0.1569,
+    "closeWinRate": 0.5469,
+    "intensityRatio": 0.5736,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 6,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 22.992952,
+      "chinaLossImpactRaw": 5.799038
+    },
+    "metrics": {
+      "speed": 51.13026787630087,
+      "technique": 78.42111815864156,
+      "tactics": 64.40280000818488,
+      "mental": 52.862823965527774,
+      "chinaImpact": 73.6131965239977,
+      "experience": 57.77
+    },
+    "threatScore": 77.22
+  },
+  "SHIN Yubin": {
+    "totalMatches": 61,
+    "parsedMatches": 61,
+    "weightedMatches": 48.3748,
+    "weightedWins": 29.3589,
+    "winRate": 0.6069,
+    "dominantWinRate": 0.4178,
+    "closeRatio": 0.3017,
+    "closeWinRate": 0.4037,
+    "intensityRatio": 0.5765,
+    "china": {
+      "chinaMatchCount": 10,
+      "chinaWinCount": 3,
+      "chinaLossCount": 7,
+      "chinaImpactRaw": 26.468554,
+      "chinaLossImpactRaw": 9.692747
+    },
+    "metrics": {
+      "speed": 61.47359426041603,
+      "technique": 60.690517161466595,
+      "tactics": 45.06857388473594,
+      "mental": 43.51292579420967,
+      "chinaImpact": 81.10359913452143,
+      "experience": 69.91
+    },
+    "threatScore": 74.17
+  },
+  "ODO Satsuki": {
+    "totalMatches": 85,
+    "parsedMatches": 85,
+    "weightedMatches": 67.4489,
+    "weightedWins": 46.9313,
+    "winRate": 0.6958,
+    "dominantWinRate": 0.6005,
+    "closeRatio": 0.2775,
+    "closeWinRate": 0.5234,
+    "intensityRatio": 0.5968,
+    "china": {
+      "chinaMatchCount": 12,
+      "chinaWinCount": 2,
+      "chinaLossCount": 10,
+      "chinaImpactRaw": 20.706664,
+      "chinaLossImpactRaw": 16.149937
+    },
+    "metrics": {
+      "speed": 61.19727054396683,
+      "technique": 69.58040357549432,
+      "tactics": 59.25519037737359,
+      "mental": 51.927372720314736,
+      "chinaImpact": 86.3956696219034,
+      "experience": 97.47
+    },
+    "threatScore": 80.13
+  },
+  "NAGASAKI Miyu": {
+    "totalMatches": 55,
+    "parsedMatches": 55,
+    "weightedMatches": 42.732,
+    "weightedWins": 28.38,
+    "winRate": 0.6641,
+    "dominantWinRate": 0.4191,
+    "closeRatio": 0.3407,
+    "closeWinRate": 0.5048,
+    "intensityRatio": 0.4055,
+    "china": {
+      "chinaMatchCount": 11,
+      "chinaWinCount": 3,
+      "chinaLossCount": 8,
+      "chinaImpactRaw": 17.424495,
+      "chinaLossImpactRaw": 9.698497
+    },
+    "metrics": {
+      "speed": 52.23126943771097,
+      "technique": 66.41393324102634,
+      "tactics": 49.81243410383205,
+      "mental": 50.38022716625641,
+      "chinaImpact": 83.79506053958077,
+      "experience": 61.75
+    },
+    "threatScore": 75.13
+  },
+  "JOO Cheonhui": {
+    "totalMatches": 46,
+    "parsedMatches": 46,
+    "weightedMatches": 39.2235,
+    "weightedWins": 21.4211,
+    "winRate": 0.5461,
+    "dominantWinRate": 0.5102,
+    "closeRatio": 0.2313,
+    "closeWinRate": 0.4106,
+    "intensityRatio": 0.7681,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 2,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 16.406749,
+      "chinaLossImpactRaw": 10.174919
+    },
+    "metrics": {
+      "speed": 69.96047755261458,
+      "technique": 54.612944968558594,
+      "tactics": 48.25295271147027,
+      "mental": 43.792464672860966,
+      "chinaImpact": 73.36874699840064,
+      "experience": 56.68
+    },
+    "threatScore": 72.21
+  },
+  "Sabine WINTER": {
+    "totalMatches": 43,
+    "parsedMatches": 43,
+    "weightedMatches": 34.9675,
+    "weightedWins": 24.2495,
+    "winRate": 0.6935,
+    "dominantWinRate": 0.4971,
+    "closeRatio": 0.2133,
+    "closeWinRate": 0.4676,
+    "intensityRatio": 0.4575,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 1,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 7.307523,
+      "chinaLossImpactRaw": 1.41955
+    },
+    "metrics": {
+      "speed": 46.957336058530316,
+      "technique": 69.34881348482593,
+      "tactics": 52.60575902276903,
+      "mental": 47.8920415738633,
+      "chinaImpact": 35.86152576812068,
+      "experience": 50.53
+    },
+    "threatScore": 70.18
+  },
+  "Ying HAN": {
+    "totalMatches": 31,
+    "parsedMatches": 31,
+    "weightedMatches": 27.1367,
+    "weightedWins": 15.6283,
+    "winRate": 0.5759,
+    "dominantWinRate": 0.4237,
+    "closeRatio": 0.2466,
+    "closeWinRate": 0.697,
+    "intensityRatio": 0.6594,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 3,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 33.555904,
+      "chinaLossImpactRaw": 4.5219
+    },
+    "metrics": {
+      "speed": 63.42283285343371,
+      "technique": 57.5909809612874,
+      "tactics": 54.97969640927573,
+      "mental": 62.3284978883459,
+      "chinaImpact": 63.21147925290934,
+      "experience": 39.21
+    },
+    "threatScore": 72.65
+  },
+  "Adriana DIAZ": {
+    "totalMatches": 37,
+    "parsedMatches": 37,
+    "weightedMatches": 31.4278,
+    "weightedWins": 16.7915,
+    "winRate": 0.5343,
+    "dominantWinRate": 0.2458,
+    "closeRatio": 0.2915,
+    "closeWinRate": 0.5944,
+    "intensityRatio": 0.7423,
+    "china": {
+      "chinaMatchCount": 7,
+      "chinaWinCount": 1,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 16.719444,
+      "chinaLossImpactRaw": 10.052007
+    },
+    "metrics": {
+      "speed": 72.37014532390101,
+      "technique": 53.42870803844099,
+      "tactics": 42.553090036999876,
+      "mental": 56.57414809470811,
+      "chinaImpact": 68.632082820483,
+      "experience": 45.42
+    },
+    "threatScore": 71.57
+  },
+  "Bruna TAKAHASHI": {
+    "totalMatches": 34,
+    "parsedMatches": 34,
+    "weightedMatches": 27.0704,
+    "weightedWins": 13.3109,
+    "winRate": 0.4917,
+    "dominantWinRate": 0.4396,
+    "closeRatio": 0.2697,
+    "closeWinRate": 0.3038,
+    "intensityRatio": 0.6614,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 1,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 8.385881,
+      "chinaLossImpactRaw": 5.419239
+    },
+    "metrics": {
+      "speed": 65.18066764809679,
+      "technique": 49.1715860385392,
+      "tactics": 40.250005047830605,
+      "mental": 37.32256491459274,
+      "chinaImpact": 53.09973437308759,
+      "experience": 39.12
+    },
+    "threatScore": 65.08
+  },
+  "CHENG I-Ching": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "KIHARA Miyuu": {
+    "totalMatches": 32,
+    "parsedMatches": 32,
+    "weightedMatches": 24.9858,
+    "weightedWins": 15.7162,
+    "winRate": 0.629,
+    "dominantWinRate": 0.3022,
+    "closeRatio": 0.2735,
+    "closeWinRate": 0.3868,
+    "intensityRatio": 0.8178,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 2,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 13.462154,
+      "chinaLossImpactRaw": 5.247859
+    },
+    "metrics": {
+      "speed": 76.39197636505358,
+      "technique": 62.90037664721313,
+      "tactics": 39.71815834262951,
+      "mental": 42.862584372796775,
+      "chinaImpact": 72.87955550719954,
+      "experience": 36.11
+    },
+    "threatScore": 70.58
+  },
+  "SATO Hitomi": {
+    "totalMatches": 27,
+    "parsedMatches": 27,
+    "weightedMatches": 23.7495,
+    "weightedWins": 15.1525,
+    "winRate": 0.638,
+    "dominantWinRate": 0.7743,
+    "closeRatio": 0.1463,
+    "closeWinRate": 0.2265,
+    "intensityRatio": 0.7009,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 1,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 9.490681,
+      "chinaLossImpactRaw": 1.31444
+    },
+    "metrics": {
+      "speed": 59.298512116083536,
+      "technique": 63.801298667665385,
+      "tactics": 55.52967887081054,
+      "mental": 37.28657008521282,
+      "chinaImpact": 37.71836277155719,
+      "experience": 34.32
+    },
+    "threatScore": 67.24
+  },
+  "Hana GODA": {
+    "totalMatches": 26,
+    "parsedMatches": 26,
+    "weightedMatches": 22.2718,
+    "weightedWins": 8.4593,
+    "winRate": 0.3798,
+    "dominantWinRate": 0.1903,
+    "closeRatio": 0.3327,
+    "closeWinRate": 0.5091,
+    "intensityRatio": 0.6728,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 7.258009,
+      "chinaLossImpactRaw": 7.258009
+    },
+    "metrics": {
+      "speed": 70.38719328028394,
+      "technique": 37.98235632346995,
+      "tactics": 33.98040052570745,
+      "mental": 50.59180081878486,
+      "chinaImpact": 44.27318910168061,
+      "experience": 32.18
+    },
+    "threatScore": 62.63
+  },
+  "YUAN Jia Nan": {
+    "totalMatches": 38,
+    "parsedMatches": 38,
+    "weightedMatches": 30.2048,
+    "weightedWins": 13.7792,
+    "winRate": 0.4562,
+    "dominantWinRate": 0.5707,
+    "closeRatio": 0.2489,
+    "closeWinRate": 0.3135,
+    "intensityRatio": 0.4229,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 1,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 8.282686,
+      "chinaLossImpactRaw": 5.19112
+    },
+    "metrics": {
+      "speed": 47.020738202775235,
+      "technique": 45.61917677232618,
+      "tactics": 45.77729551954358,
+      "mental": 37.8287299115227,
+      "chinaImpact": 45.589024056544915,
+      "experience": 43.65
+    },
+    "threatScore": 63.6
+  },
+  "KIM Nayeong": {
+    "totalMatches": 69,
+    "parsedMatches": 69,
+    "weightedMatches": 57.2762,
+    "weightedWins": 27.9709,
+    "winRate": 0.4884,
+    "dominantWinRate": 0.4146,
+    "closeRatio": 0.2507,
+    "closeWinRate": 0.5761,
+    "intensityRatio": 0.6545,
+    "china": {
+      "chinaMatchCount": 9,
+      "chinaWinCount": 1,
+      "chinaLossCount": 8,
+      "chinaImpactRaw": 19.519512,
+      "chinaLossImpactRaw": 11.321966
+    },
+    "metrics": {
+      "speed": 63.366006383236744,
+      "technique": 48.83504694322462,
+      "tactics": 48.587925314567606,
+      "mental": 55.9531714909403,
+      "chinaImpact": 77.59060434863652,
+      "experience": 82.77
+    },
+    "threatScore": 75.35
+  },
+  "Bernadette SZOCS": {
+    "totalMatches": 47,
+    "parsedMatches": 47,
+    "weightedMatches": 37.6836,
+    "weightedWins": 20.3458,
+    "winRate": 0.5399,
+    "dominantWinRate": 0.4223,
+    "closeRatio": 0.2267,
+    "closeWinRate": 0.3376,
+    "intensityRatio": 0.5752,
+    "china": {
+      "chinaMatchCount": 7,
+      "chinaWinCount": 1,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 17.162546,
+      "chinaLossImpactRaw": 6.567372
+    },
+    "metrics": {
+      "speed": 56.13277889345405,
+      "technique": 53.99111011605521,
+      "tactics": 41.61740625883994,
+      "mental": 38.93805912997246,
+      "chinaImpact": 68.66477263102982,
+      "experience": 54.46
+    },
+    "threatScore": 69.12
+  },
+  "Prithika PAVADE": {
+    "totalMatches": 46,
+    "parsedMatches": 46,
+    "weightedMatches": 36.3064,
+    "weightedWins": 18.2503,
+    "winRate": 0.5027,
+    "dominantWinRate": 0.5547,
+    "closeRatio": 0.2024,
+    "closeWinRate": 0.477,
+    "intensityRatio": 0.4446,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 0,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 6.477006,
+      "chinaLossImpactRaw": 6.477006
+    },
+    "metrics": {
+      "speed": 45.28816992859117,
+      "technique": 50.267348450280025,
+      "tactics": 51.709089565703735,
+      "mental": 48.50906292919703,
+      "chinaImpact": 55.73932450408949,
+      "experience": 52.47
+    },
+    "threatScore": 68.88
+  },
+  "Elizabeta SAMARA": {
+    "totalMatches": 35,
+    "parsedMatches": 35,
+    "weightedMatches": 29.1829,
+    "weightedWins": 12.0911,
+    "winRate": 0.4143,
+    "dominantWinRate": 0.507,
+    "closeRatio": 0.3106,
+    "closeWinRate": 0.3179,
+    "intensityRatio": 0.6938,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 2.083465,
+      "chinaLossImpactRaw": 2.083465
+    },
+    "metrics": {
+      "speed": 70.30675722416508,
+      "technique": 41.43226201547831,
+      "tactics": 42.229726760605416,
+      "mental": 37.36569251977951,
+      "chinaImpact": 13.295540324983612,
+      "experience": 42.17
+    },
+    "threatScore": 60.19
+  },
+  "Sofia POLCANOVA": {
+    "totalMatches": 34,
+    "parsedMatches": 34,
+    "weightedMatches": 27.8938,
+    "weightedWins": 14.8963,
+    "winRate": 0.534,
+    "dominantWinRate": 0.5059,
+    "closeRatio": 0.2348,
+    "closeWinRate": 0.4129,
+    "intensityRatio": 0.5418,
+    "china": {
+      "chinaMatchCount": 5,
+      "chinaWinCount": 0,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 9.732969,
+      "chinaLossImpactRaw": 9.732969
+    },
+    "metrics": {
+      "speed": 54.36256852899931,
+      "technique": 53.40371509399553,
+      "tactics": 47.89860274928326,
+      "mental": 44.592008747954836,
+      "chinaImpact": 54.38976464663138,
+      "experience": 40.31
+    },
+    "threatScore": 67.46
+  },
+  "LEE Eunhye": {
+    "totalMatches": 54,
+    "parsedMatches": 54,
+    "weightedMatches": 35.7911,
+    "weightedWins": 19.6519,
+    "winRate": 0.5491,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 54.90728365858634,
+      "tactics": 10.981456731717268,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 51.72
+    },
+    "threatScore": 53.46
+  },
+  "ZENG Jian": {
+    "totalMatches": 42,
+    "parsedMatches": 42,
+    "weightedMatches": 35.5948,
+    "weightedWins": 17.5229,
+    "winRate": 0.4923,
+    "dominantWinRate": 0.4149,
+    "closeRatio": 0.259,
+    "closeWinRate": 0.4357,
+    "intensityRatio": 0.6074,
+    "china": {
+      "chinaMatchCount": 6,
+      "chinaWinCount": 1,
+      "chinaLossCount": 5,
+      "chinaImpactRaw": 7.276499,
+      "chinaLossImpactRaw": 3.84453
+    },
+    "metrics": {
+      "speed": 60.64878322242522,
+      "technique": 49.228824598173496,
+      "tactics": 43.763233844730465,
+      "mental": 45.513626276745214,
+      "chinaImpact": 57.55188557032456,
+      "experience": 51.44
+    },
+    "threatScore": 68.42
+  },
+  "YOKOI Sakura": {
+    "totalMatches": 38,
+    "parsedMatches": 38,
+    "weightedMatches": 31.1921,
+    "weightedWins": 19.9074,
+    "winRate": 0.6382,
+    "dominantWinRate": 0.5443,
+    "closeRatio": 0.2695,
+    "closeWinRate": 0.5332,
+    "intensityRatio": 0.6504,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 3,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 12.897061,
+      "chinaLossImpactRaw": 0.722188
+    },
+    "metrics": {
+      "speed": 64.39534922040487,
+      "technique": 63.821811039025015,
+      "tactics": 55.91993224887889,
+      "mental": 52.25046644847742,
+      "chinaImpact": 48.04579150034113,
+      "experience": 45.07
+    },
+    "threatScore": 71.86
+  },
+  "DOO Hoi Kem": {
+    "totalMatches": 40,
+    "parsedMatches": 40,
+    "weightedMatches": 31.8732,
+    "weightedWins": 13.1437,
+    "winRate": 0.4124,
+    "dominantWinRate": 0.6555,
+    "closeRatio": 0.2286,
+    "closeWinRate": 0.256,
+    "intensityRatio": 0.4587,
+    "china": {
+      "chinaMatchCount": 9,
+      "chinaWinCount": 0,
+      "chinaLossCount": 9,
+      "chinaImpactRaw": 10.362088,
+      "chinaLossImpactRaw": 10.362088
+    },
+    "metrics": {
+      "speed": 48.1058982852791,
+      "technique": 41.237392666887544,
+      "tactics": 46.70414944060514,
+      "mental": 34.24586478047507,
+      "chinaImpact": 75.31504819152859,
+      "experience": 46.06
+    },
+    "threatScore": 65.86
+  },
+  "LIU Yangzi": {
+    "totalMatches": 24,
+    "parsedMatches": 24,
+    "weightedMatches": 18.2063,
+    "weightedWins": 4.7865,
+    "winRate": 0.2629,
+    "dominantWinRate": 0.6268,
+    "closeRatio": 0.0713,
+    "closeWinRate": 0.4963,
+    "intensityRatio": 0.5183,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 3.553362,
+      "chinaLossImpactRaw": 3.553362
+    },
+    "metrics": {
+      "speed": 41.26758082286122,
+      "technique": 26.290664114972767,
+      "tactics": 50.834955359624715,
+      "mental": 49.91035785002238,
+      "chinaImpact": 26.609507302939104,
+      "experience": 26.31
+    },
+    "threatScore": 57
+  },
+  "Lily ZHANG": {
+    "totalMatches": 15,
+    "parsedMatches": 15,
+    "weightedMatches": 12.3515,
+    "weightedWins": 3.6378,
+    "winRate": 0.2945,
+    "dominantWinRate": 0.4535,
+    "closeRatio": 0.2471,
+    "closeWinRate": 0.3219,
+    "intensityRatio": 0.666,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 5.365827,
+      "chinaLossImpactRaw": 5.365827
+    },
+    "metrics": {
+      "speed": 63.91543638666695,
+      "technique": 29.452037507306922,
+      "tactics": 37.56455304589122,
+      "mental": 42.29114159170149,
+      "chinaImpact": 32.511869534577094,
+      "experience": 17.85
+    },
+    "threatScore": 55.55
+  },
+  "AKAE Kaho": {
+    "totalMatches": 13,
+    "parsedMatches": 13,
+    "weightedMatches": 10.0205,
+    "weightedWins": 5.3068,
+    "winRate": 0.5296,
+    "dominantWinRate": 0.5574,
+    "closeRatio": 0.1726,
+    "closeWinRate": 0.5,
+    "intensityRatio": 0.0801,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 1.672731,
+      "chinaLossImpactRaw": 1.672731
+    },
+    "metrics": {
+      "speed": 17.68601432660741,
+      "technique": 52.95906320806466,
+      "tactics": 53.17273261586225,
+      "mental": 50,
+      "chinaImpact": 6.021313217107986,
+      "experience": 14.48
+    },
+    "threatScore": 56.88
+  },
+  "SHIBATA Saki": {
+    "totalMatches": 6,
+    "parsedMatches": 6,
+    "weightedMatches": 6.4562,
+    "weightedWins": 4.2897,
+    "winRate": 0.6644,
+    "dominantWinRate": 0.505,
+    "closeRatio": 0.4933,
+    "closeWinRate": 0.6667,
+    "intensityRatio": 1,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 100,
+      "technique": 66.44298304398095,
+      "tactics": 59.3491720652186,
+      "mental": 57.38775595686163,
+      "chinaImpact": 0,
+      "experience": 9.33
+    },
+    "threatScore": 67.41
+  },
+  "Sreeja AKULA": {
+    "totalMatches": 27,
+    "parsedMatches": 27,
+    "weightedMatches": 18.5051,
+    "weightedWins": 7.3404,
+    "winRate": 0.3967,
+    "dominantWinRate": 0.4661,
+    "closeRatio": 0.3439,
+    "closeWinRate": 0.3107,
+    "intensityRatio": 0.2317,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 3.581429,
+      "chinaLossImpactRaw": 3.581429
+    },
+    "metrics": {
+      "speed": 40.296917589181426,
+      "technique": 39.66700641467583,
+      "tactics": 39.78396141965743,
+      "mental": 38.37747281240515,
+      "chinaImpact": 26.730730545291134,
+      "experience": 26.74
+    },
+    "threatScore": 56.01
+  },
+  "HURSEY Anna": {
+    "totalMatches": 37,
+    "parsedMatches": 37,
+    "weightedMatches": 29.5785,
+    "weightedWins": 15.6161,
+    "winRate": 0.528,
+    "dominantWinRate": 0.4785,
+    "closeRatio": 0.1889,
+    "closeWinRate": 0.5649,
+    "intensityRatio": 0.4676,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 5.718175,
+      "chinaLossImpactRaw": 5.718175
+    },
+    "metrics": {
+      "speed": 45.95449441590307,
+      "technique": 52.79548228997817,
+      "tactics": 51.86599871016333,
+      "mental": 53.785216289139036,
+      "chinaImpact": 33.29600374106031,
+      "experience": 42.74
+    },
+    "threatScore": 66.83
+  },
+  "Dina MESHREF": {
+    "totalMatches": 13,
+    "parsedMatches": 13,
+    "weightedMatches": 9.7085,
+    "weightedWins": 2.0319,
+    "winRate": 0.2093,
+    "dominantWinRate": 0.3574,
+    "closeRatio": 0.2594,
+    "closeWinRate": 0.2883,
+    "intensityRatio": 0.3436,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 2.718537,
+      "chinaLossImpactRaw": 2.718537
+    },
+    "metrics": {
+      "speed": 42.21099868470032,
+      "technique": 20.9294260108425,
+      "tactics": 30.3592328007722,
+      "mental": 41.82225789389306,
+      "chinaImpact": 22.447574719171214,
+      "experience": 14.03
+    },
+    "threatScore": 47.25
+  },
+  "Manika BATRA": {
+    "totalMatches": 36,
+    "parsedMatches": 36,
+    "weightedMatches": 29.8507,
+    "weightedWins": 11.3956,
+    "winRate": 0.3818,
+    "dominantWinRate": 0.2854,
+    "closeRatio": 0.2808,
+    "closeWinRate": 0.6288,
+    "intensityRatio": 0.69,
+    "china": {
+      "chinaMatchCount": 8,
+      "chinaWinCount": 2,
+      "chinaLossCount": 6,
+      "chinaImpactRaw": 15.651009,
+      "chinaLossImpactRaw": 6.82564
+    },
+    "metrics": {
+      "speed": 67.9560944678134,
+      "technique": 38.17545976728188,
+      "tactics": 42.48463488850397,
+      "mental": 58.7180144278067,
+      "chinaImpact": 73.2865530931183,
+      "experience": 43.14
+    },
+    "threatScore": 69.23
+  },
+  "Linda BERGSTROM": {
+    "totalMatches": 23,
+    "parsedMatches": 23,
+    "weightedMatches": 16.4964,
+    "weightedWins": 5.6104,
+    "winRate": 0.3401,
+    "dominantWinRate": 0.8208,
+    "closeRatio": 0.2146,
+    "closeWinRate": 0.284,
+    "intensityRatio": 0.2164,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 2.119847,
+      "chinaLossImpactRaw": 2.119847
+    },
+    "metrics": {
+      "speed": 30.17200149382315,
+      "technique": 34.010027095125025,
+      "tactics": 53.67718252737291,
+      "mental": 39.85806348080063,
+      "chinaImpact": 13.475926013739734,
+      "experience": 23.84
+    },
+    "threatScore": 54.11
+  },
+  "Mo ZHANG": {
+    "totalMatches": 13,
+    "parsedMatches": 13,
+    "weightedMatches": 11.1332,
+    "weightedWins": 3.5285,
+    "winRate": 0.3169,
+    "dominantWinRate": 0.285,
+    "closeRatio": 0.1971,
+    "closeWinRate": 0.2439,
+    "intensityRatio": 0.7205,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 4.449515,
+      "chinaLossImpactRaw": 4.449515
+    },
+    "metrics": {
+      "speed": 64.22959884545936,
+      "technique": 31.693875289440896,
+      "tactics": 27.697196847634213,
+      "mental": 40.927262643375066,
+      "chinaImpact": 21.594088460278087,
+      "experience": 16.09
+    },
+    "threatScore": 52.24
+  },
+  "KAUFMANN Annett": {
+    "totalMatches": 28,
+    "parsedMatches": 28,
+    "weightedMatches": 23.0981,
+    "weightedWins": 13.6352,
+    "winRate": 0.5903,
+    "dominantWinRate": 0.6071,
+    "closeRatio": 0.1995,
+    "closeWinRate": 0.4675,
+    "intensityRatio": 0.428,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 2.058882,
+      "chinaLossImpactRaw": 2.058882
+    },
+    "metrics": {
+      "speed": 43.92502489562808,
+      "technique": 59.03172517928245,
+      "tactics": 55.48808337602249,
+      "mental": 48.25883018368391,
+      "chinaImpact": 7.133855002879427,
+      "experience": 33.38
+    },
+    "threatScore": 63.55
+  },
+  "Minhyung JEE": {
+    "totalMatches": 17,
+    "parsedMatches": 17,
+    "weightedMatches": 13.031,
+    "weightedWins": 0.7116,
+    "winRate": 0.0546,
+    "dominantWinRate": 1,
+    "closeRatio": 0.0848,
+    "closeWinRate": 0,
+    "intensityRatio": 0.6067,
+    "china": {
+      "chinaMatchCount": 3,
+      "chinaWinCount": 0,
+      "chinaLossCount": 3,
+      "chinaImpactRaw": 2.11331,
+      "chinaLossImpactRaw": 2.11331
+    },
+    "metrics": {
+      "speed": 48.405666625293286,
+      "technique": 5.460851014836471,
+      "tactics": 46.092170202967296,
+      "mental": 39.17798433974159,
+      "chinaImpact": 18.660502054541354,
+      "experience": 18.83
+    },
+    "threatScore": 46.54
+  },
+  "HIRANO Miu": {
+    "totalMatches": 25,
+    "parsedMatches": 25,
+    "weightedMatches": 21.0529,
+    "weightedWins": 11.7647,
+    "winRate": 0.5588,
+    "dominantWinRate": 0.4421,
+    "closeRatio": 0.3178,
+    "closeWinRate": 0.6328,
+    "intensityRatio": 0.7229,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 3.153517,
+      "chinaLossImpactRaw": 3.153517
+    },
+    "metrics": {
+      "speed": 72.85059888498444,
+      "technique": 55.88132249918707,
+      "tactics": 53.2201288131028,
+      "mental": 58.311317766542146,
+      "chinaImpact": 17.8350166316746,
+      "experience": 30.42
+    },
+    "threatScore": 67.18
+  },
+  "LI Yu-Jhun": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "PSIHOGIOS Constantina": {
+    "totalMatches": 7,
+    "parsedMatches": 7,
+    "weightedMatches": 4.7205,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0.213,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.684758,
+      "chinaLossImpactRaw": 0.684758
+    },
+    "metrics": {
+      "speed": 14.910080051166055,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 2.5944886629484123,
+      "experience": 6.82
+    },
+    "threatScore": 25.32
+  },
+  "Lea RAKOVAC": {
+    "totalMatches": 24,
+    "parsedMatches": 24,
+    "weightedMatches": 19.2043,
+    "weightedWins": 9.7876,
+    "winRate": 0.5097,
+    "dominantWinRate": 0.2606,
+    "closeRatio": 0.1655,
+    "closeWinRate": 0.4719,
+    "intensityRatio": 0.4795,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 45.150548234595135,
+      "technique": 50.966006740375626,
+      "tactics": 38.438604564020245,
+      "mental": 48.757425822926216,
+      "chinaImpact": 0,
+      "experience": 27.75
+    },
+    "threatScore": 57.65
+  },
+  "Jieni SHAO": {
+    "totalMatches": 35,
+    "parsedMatches": 35,
+    "weightedMatches": 25.1453,
+    "weightedWins": 11.3527,
+    "winRate": 0.4515,
+    "dominantWinRate": 0.4099,
+    "closeRatio": 0.1401,
+    "closeWinRate": 0.5476,
+    "intensityRatio": 0.2628,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.820264,
+      "chinaLossImpactRaw": 0.820264
+    },
+    "metrics": {
+      "speed": 28.198105733884688,
+      "technique": 45.14860487261902,
+      "tactics": 46.64173776371267,
+      "mental": 52.22925367264376,
+      "chinaImpact": 3.1110472730331415,
+      "experience": 36.34
+    },
+    "threatScore": 58.48
+  },
+  "Fu YU": {
+    "totalMatches": 35,
+    "parsedMatches": 35,
+    "weightedMatches": 25.377,
+    "weightedWins": 13.3753,
+    "winRate": 0.5271,
+    "dominantWinRate": 0.565,
+    "closeRatio": 0.2318,
+    "closeWinRate": 0.6137,
+    "intensityRatio": 0.2087,
+    "china": {
+      "chinaMatchCount": 1,
+      "chinaWinCount": 0,
+      "chinaLossCount": 1,
+      "chinaImpactRaw": 0.770638,
+      "chinaLossImpactRaw": 0.770638
+    },
+    "metrics": {
+      "speed": 30.83548445132954,
+      "technique": 52.7065599951442,
+      "tactics": 57.44635192741667,
+      "mental": 56.76957587654786,
+      "chinaImpact": 2.923305198528282,
+      "experience": 36.67
+    },
+    "threatScore": 62.87
+  },
+  "YEH Yi-Tian": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "Xiaona SHAN": {
+    "totalMatches": 22,
+    "parsedMatches": 22,
+    "weightedMatches": 16.6059,
+    "weightedWins": 4.9879,
+    "winRate": 0.3004,
+    "dominantWinRate": 0.4395,
+    "closeRatio": 0.231,
+    "closeWinRate": 0.5196,
+    "intensityRatio": 0.3635,
+    "china": {
+      "chinaMatchCount": 4,
+      "chinaWinCount": 0,
+      "chinaLossCount": 4,
+      "chinaImpactRaw": 4.333759,
+      "chinaLossImpactRaw": 4.333759
+    },
+    "metrics": {
+      "speed": 41.61571251302136,
+      "technique": 30.0366558050637,
+      "tactics": 43.972524040828496,
+      "mental": 50.96047910969482,
+      "chinaImpact": 36.596839680190925,
+      "experience": 24
+    },
+    "threatScore": 57.85
+  },
+  "Amy WANG": {
+    "totalMatches": 8,
+    "parsedMatches": 8,
+    "weightedMatches": 5.6888,
+    "weightedWins": 1.2568,
+    "winRate": 0.2209,
+    "dominantWinRate": 0,
+    "closeRatio": 0.106,
+    "closeWinRate": 1,
+    "intensityRatio": 0.3396,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 31.19782928795609,
+      "technique": 22.09297227712502,
+      "tactics": 39.418594455425,
+      "mental": 56.552794828415664,
+      "chinaImpact": 0,
+      "experience": 8.22
+    },
+    "threatScore": 46.99
+  },
+  "LUTZ Charlotte": {
+    "totalMatches": 36,
+    "parsedMatches": 36,
+    "weightedMatches": 28.2058,
+    "weightedWins": 13.922,
+    "winRate": 0.4936,
+    "dominantWinRate": 0.3517,
+    "closeRatio": 0.3159,
+    "closeWinRate": 0.5602,
+    "intensityRatio": 0.3842,
+    "china": {
+      "chinaMatchCount": 2,
+      "chinaWinCount": 0,
+      "chinaLossCount": 2,
+      "chinaImpactRaw": 3.648763,
+      "chinaLossImpactRaw": 3.648763
+    },
+    "metrics": {
+      "speed": 49.00812768200014,
+      "technique": 49.35869842086938,
+      "tactics": 45.30575276972161,
+      "mental": 54.15772017247819,
+      "chinaImpact": 19.463986293991137,
+      "experience": 40.76
+    },
+    "threatScore": 63.87
+  },
+  "キム・ソンジン KIM Seongjin": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "CHUQIN WANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "SHIDONG LIN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "JINGKUN LIANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "PENG XIANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "QIHAO ZHOU": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YUANYU CHEN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YOUZHENG HUANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "JUNSONG CHEN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "RUIBO WEN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "GAOYUAN LIN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YINGSHA SUN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 51.45961159934017,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.67
+  },
+  "MANYU WANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "XINGTONG CHEN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "MAN KUAI": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YIDI WANG": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YI CHEN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "XUNYAO SHI": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "YUXUAN QIN": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "ZHUOJIA HE": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  },
+  "WEISHAN LIU": {
+    "totalMatches": 0,
+    "parsedMatches": 0,
+    "weightedMatches": 0,
+    "weightedWins": 0,
+    "winRate": 0,
+    "dominantWinRate": 0,
+    "closeRatio": 0,
+    "closeWinRate": 0,
+    "intensityRatio": 0,
+    "china": {
+      "chinaMatchCount": 0,
+      "chinaWinCount": 0,
+      "chinaLossCount": 0,
+      "chinaImpactRaw": 0,
+      "chinaLossImpactRaw": 0
+    },
+    "metrics": {
+      "speed": 0,
+      "technique": 0,
+      "tactics": 0,
+      "mental": 50,
+      "chinaImpact": 0,
+      "experience": 0
+    },
+    "threatScore": 20.15
+  }
+}

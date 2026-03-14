@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "username": "默认用户",
+    "password": "123456",
+    "role": "coach",
+    "coachId": 104,
+    "city": "北京",
+    "location": {
+      "lat": 39.991,
+      "lng": 116.31
+    },
+    "trainings": [
+      {
+        "id": 6,
+        "date": "2026-03-10",
+        "content": "两点/三点步法：启动+还原 8 组×2 分钟",
+        "type": "步法",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 1,
+        "difficulty": 4
+      },
+      {
+        "id": 7,
+        "date": "2026-03-11",
+        "content": "发球后第三板：发球→抢攻/控短→下一板跟进",
+        "type": "接发球",
+        "rating": "退步",
+        "result": "",
+        "durationHours": 1,
+        "difficulty": 4
+      },
+      {
+        "id": 8,
+        "date": "2026-03-11",
+        "content": "落点控制：定点→变点，线路组合 8 组×20 球",
+        "type": "战术",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 1,
+        "difficulty": 4
+      },
+      {
+        "id": 9,
+        "date": "2026-03-11",
+        "content": "两点/三点步法：启动+还原 8 组×2 分钟",
+        "type": "步法",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 4,
+        "difficulty": 4
+      },
+      {
+        "id": 10,
+        "date": "2026-03-11",
+        "content": "发球后第三板：发球→抢攻/控短→下一板跟进",
+        "type": "接发球",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 2,
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "张紫涵",
+    "password": "zf198066",
+    "role": "coach",
+    "coachId": 105,
+    "city": "北京",
+    "location": {
+      "lat": 39.991,
+      "lng": 116.31
+    },
+    "trainings": [
+      {
+        "id": 1,
+        "date": "2026-03-13",
+        "content": "发球稳定性：同动作同落点连续 50 球，上台率≥90%",
+        "type": "发球",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 1,
+        "difficulty": 3
+      },
+      {
+        "id": 2,
+        "date": "2026-03-13",
+        "content": "相持稳定：连续 50 球训练，控制弧线与落点",
+        "type": "相持",
+        "rating": "进步",
+        "result": "",
+        "durationHours": 4,
+        "difficulty": 3
+      },
+      {
+        "id": 3,
+        "date": "2026-03-13",
+        "content": "两点/三点步法：启动+还原 8 组×2 分钟",
+        "type": "步法",
+        "rating": "退步",
+        "result": "",
+        "durationHours": 1,
+        "difficulty": 4
+      }
+    ]
+  }
+]

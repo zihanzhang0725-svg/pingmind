@@ -1,0 +1,981 @@
+[
+    {
+        "name": "自由时报",
+        "url": [
+            "https://news.ltn.com.tw/list/breakingnews/politics"
+        ]
+    },
+    {
+        "name": "三立新闻网",
+        "url": [
+            "https://www.setn.com/catalog.aspx?pagegroupid=6"
+        ]
+    },
+    {
+        "name": "大纪元新闻网",
+        "url": [
+            "https://www.epochtimes.com/b5/nsc413.htm"
+        ]
+    },
+    {
+        "name": "阿波罗新闻网",
+        "url": [
+            "https://www.aboluowang.com/news/"
+        ]
+    },
+    {
+        "name": "禁闻网",
+        "url": [
+            "https://www.bannedbook.org/bnews/latest/page/1/",
+            "https://www.bannedbook.org/bnews/latest/page/2/",
+            "https://www.bannedbook.org/bnews/latest/page/3/",
+            "https://www.bannedbook.org/bnews/latest/page/4/",
+            "https://www.bannedbook.org/bnews/latest/page/5/",
+            "https://www.bannedbook.org/bnews/latest/page/6/",
+            "https://www.bannedbook.org/bnews/latest/page/7/",
+            "https://www.bannedbook.org/bnews/latest/page/8/",
+            "https://www.bannedbook.org/bnews/latest/page/9/",
+            "https://www.bannedbook.org/bnews/latest/page/10/"
+        ]
+    },
+    {
+        "name": "新唐人电视台",
+        "url": [
+            "https://www.ntdtv.com/b5/programs/china-forbidden-news"
+        ]
+    },
+    {
+        "name": "看中国新闻网",
+        "url": [
+            "https://www.secretchina.com/news/gb/index.html"
+        ]
+    },
+    {
+        "name": "倍可亲",
+        "url": [
+            "https://www.backchina.com/"
+        ]
+    },
+    {
+        "name": "美国自由亚洲电台",
+        "url": [
+            "https://www.rfa.org/mandarin/"
+        ]
+    },
+    {
+        "name": "博讯新闻网",
+        "url": [
+            "http://www.boxun.com/"
+        ]
+    },
+    {
+        "name": "希望之声国际广播电台",
+        "url": [
+            "https://www.soundofhope.org/"
+        ]
+    },
+    {
+        "name": "Bowen Press",
+        "url": [
+            "https://bowenpressbooks.com/"
+        ]
+    },
+    {
+        "name": "华人今日网",
+        "url": [
+            "https://www.chinesedaily.com/"
+        ]
+    },
+    {
+        "name": "人民报",
+        "url": [
+            "https://www.renminbao.com/"
+        ]
+    },
+    {
+        "name": "美国之音中文网",
+        "url": [
+            "https://www.voachinese.com/"
+        ]
+    },
+    {
+        "name": "中国数字时代",
+        "url": [
+            "https://chinadigitaltimes.net/chinese/"
+        ]
+    },
+    {
+        "name": "全球退党服务中心",
+        "url": [
+            "https://www.tuidang.org/"
+        ]
+    },
+    {
+        "name": "北京之春",
+        "url": [
+            "http://beijingspring.com/c7/index.htm"
+        ]
+    },
+    {
+        "name": "中国西藏之声网",
+        "url": [
+            "https://vtibet.cn/"
+        ]
+    },
+    {
+        "name": "中国人权网",
+        "url": [
+            "https://www.humanrights.cn/",
+            "https://www.humanrights.cn/trends_CSHRS/index.html"
+        ]
+    },
+    {
+        "name": "GreatFire.org",
+        "url": [
+            "https://zh.greatfire.org/#news"
+        ]
+    },
+    {
+        "name": "品葱中文论坛网站",
+        "url": [
+            "https://x.com/GFWfrog"
+        ]
+    },
+    {
+        "name": "BanGFW Official 拆墙运动公号（CH）@BanGFW2",
+        "url": [
+            "https://x.com/BanGFW2"
+        ]
+    },
+    {
+        "name": "李老师不是你老师@whyyoutouzhele",
+        "url": [
+            "https://x.com/whyyoutouzhele"
+        ]
+    },
+    {
+        "name": "开放技术基金会",
+        "url": [
+            "https://www.opentech.fund/news/?sc=&filter1=program-update&filter2=&order-by-selector=date-desc&pageno=1"
+        ]
+    },
+    {
+        "name": "美国国家民主基金会",
+        "url": [
+            "https://www.ned.org/news/page/1/",
+            "https://www.ned.org/news/page/2/",
+            "https://www.ned.org/news/page/3/",
+            "https://www.ned.org/news/page/4/",
+            "https://www.ned.org/news/page/5/",
+            "https://www.ned.org/news/page/6/",
+            "https://www.ned.org/news/page/7/",
+            "https://www.ned.org/news/page/8/",
+            "https://www.ned.org/news/page/9/",
+            "https://www.ned.org/news/page/10/"
+        ]
+    },
+    {
+        "name": "保护记者委员会",
+        "url": [
+            "https://cpj.org/reports/",
+            "https://cpj.org/reports/page/2/",
+            "https://cpj.org/reports/page/3/"
+        ]
+    },
+    {
+        "name": "电子前线基金会",
+        "url": [
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=0",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=1",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=2",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=3",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=4",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=5",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=6",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=7",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=8",
+            "https://www.eff.org/updates?type=press_release&language=zh-hans&page=9"
+        ]
+    },
+    {
+        "name": "对华援助协会",
+        "url": [
+            "https://chinaaid.org/news/"
+        ]
+    },
+    {
+        "name": "福特基金会",
+        "url": [
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/2/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/3/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/4/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/5/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/6/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/7/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/8/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/9/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/10/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/11/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/12/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/13/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/14/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/15/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/16/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/17/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/18/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/19/",
+            "https://www.fordfoundation.org/news-and-stories/news-and-press/page/20/"
+        ]
+    },
+    {
+        "name": "共产主义受难者纪念基金会",
+        "url": [
+            "https://victimsofcommunism.org/news/",
+            "https://victimsofcommunism.org/news/page/2/",
+            "https://victimsofcommunism.org/news/page/3/",
+            "https://victimsofcommunism.org/news/page/4/",
+            "https://victimsofcommunism.org/news/page/5/",
+            "https://victimsofcommunism.org/news/page/6/",
+            "https://victimsofcommunism.org/news/page/7/"
+        ]
+    },
+    {
+        "name": "国际媒体援助中心",
+        "url": [
+            "https://www.cima.ned.org/blog/"
+        ]
+    },
+    {
+        "name": "国际事务全国民主研究所",
+        "url": [
+            "https://www.ndi.org/press-releases",
+            "https://www.ndi.org/press-releases?page=1",
+            "https://www.ndi.org/press-releases?page=2",
+            "https://www.ndi.org/press-releases?page=3",
+            "https://www.ndi.org/press-releases?page=4",
+            "https://www.ndi.org/press-releases?page=5",
+            "https://www.ndi.org/press-releases?page=6",
+            "https://www.ndi.org/press-releases?page=7",
+            "https://www.ndi.org/press-releases?page=8"
+        ]
+    },
+    {
+        "name": "捍卫民主基金会",
+        "url": [
+            "https://www.fdd.org/category/in_the_news/"
+        ]
+    },
+    {
+        "name": "金融透明度联盟",
+        "url": [
+            "https://financialtransparency.org/category/press-releases/"
+        ]
+    },
+    {
+        "name": "开放社会基金会",
+        "url": [
+            "https://www.opensocietyfoundations.org/newsroom",
+            "https://www.opensocietyfoundations.org/newsroom?page=1",
+            "https://www.opensocietyfoundations.org/newsroom?page=2",
+            "https://www.opensocietyfoundations.org/newsroom?page=3",
+            "https://www.opensocietyfoundations.org/newsroom?page=4",
+            "https://www.opensocietyfoundations.org/newsroom?page=5"
+        ]
+    },
+    {
+        "name": "开放网络促进会",
+        "url": [
+            "https://opennetworking.org/category/news-and-events/latest-news/page/1/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/2/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/3/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/4/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/5/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/6/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/7/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/8/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/9/",
+            "https://opennetworking.org/category/news-and-events/latest-news/page/10/"
+        ]
+    },
+    {
+        "name": "法外海洋项目",
+        "url": [
+            "https://www.theoutlawocean.com/reporting/"
+        ]
+    },
+    {
+        "name": "美国制造业联盟",
+        "url": [
+            "https://www.americanmanufacturing.org/blog/"
+        ]
+    },
+    {
+        "name": "美国传统基金会",
+        "url": [
+            "https://www.heritage.org/press"
+        ]
+    },
+    {
+        "name": "阿特拉斯网络",
+        "url": [
+            "https://www.atlasnetwork.org/articles"
+        ]
+    },
+    {
+        "name": "人权观察",
+        "url": [
+            "https://www.hrw.org/publications"
+        ]
+    },
+    {
+        "name": "中国人权捍卫者",
+        "url": [
+            "https://www.nchrd.org/category/news/",
+            "https://www.nchrd.org/category/news/page/2/",
+            "https://www.nchrd.org/category/news/page/3/",
+            "https://www.nchrd.org/category/news/page/4/",
+            "https://www.nchrd.org/category/news/page/5/",
+            "https://www.nchrd.org/category/news/page/6/",
+            "https://www.nchrd.org/category/news/page/7/",
+            "https://www.nchrd.org/category/news/page/8/",
+            "https://www.nchrd.org/category/news/page/9/"
+        ]
+    },
+    {
+        "name": "全球网络自由联盟",
+        "url": [
+            "https://internetfreedom.org/node/47.html"
+        ]
+    },
+    {
+        "name": "维基媒体基金会",
+        "url": [
+            "https://wikimediafoundation.org/news/",
+            "https://wikimediafoundation.org/news/page/2/",
+            "https://wikimediafoundation.org/news/page/3/",
+            "https://wikimediafoundation.org/news/page/4/",
+            "https://wikimediafoundation.org/news/page/5/",
+            "https://wikimediafoundation.org/news/page/6/",
+            "https://wikimediafoundation.org/news/page/7/",
+            "https://wikimediafoundation.org/news/page/8/",
+            "https://wikimediafoundation.org/news/page/9/",
+            "https://wikimediafoundation.org/news/page/10/"
+        ]
+    },
+    {
+        "name": "新闻自由基金会",
+        "url": [
+            "https://freedom.press/issues/?content-type=release",
+            "https://freedom.press/issues/?content-type=release&page=2",
+            "https://freedom.press/issues/?content-type=release&page=3",
+            "https://freedom.press/issues/?content-type=release&page=4",
+            "https://freedom.press/issues/?content-type=release&page=5"
+        ]
+    },
+    {
+        "name": "休利特基金会",
+        "url": [
+            "https://hewlett.org/making-progress-possible/",
+            "https://hewlett.org/making-progress-possible/?_paged=2",
+            "https://hewlett.org/making-progress-possible/?_paged=3",
+            "https://hewlett.org/making-progress-possible/?_paged=4",
+            "https://hewlett.org/making-progress-possible/?_paged=5"
+        ]
+    },
+    {
+        "name": "中国人权问责数据库",
+        "url": [
+            "https://chrad.net/"
+        ]
+    },
+    {
+        "name": "自由之家",
+        "url": [
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=0/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=1/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=2/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=3/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=4/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=5/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=6/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=7/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=8/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=9/",
+            "https://freedomhouse.org/news-releases-statements/press-releases-and-statements?page=10/"
+        ]
+    },
+    {
+        "name": "第十九条",
+        "url": [
+            "https://www.article19.org/explore/",
+            "https://www.article19.org/explore/?page=2",
+            "https://www.article19.org/explore/?page=3",
+            "https://www.article19.org/explore/?page=4",
+            "https://www.article19.org/explore/?page=5"
+        ]
+    },
+    {
+        "name": "国际特赦组织",
+        "url": [
+            "https://www.amnesty.org/en/latest/news/",
+            "https://www.amnesty.org/en/latest/news/page/2/",
+            "https://www.amnesty.org/en/latest/news/page/3/",
+            "https://www.amnesty.org/en/latest/news/page/4/",
+            "https://www.amnesty.org/en/latest/news/page/5/",
+            "https://www.amnesty.org/en/latest/news/page/6/",
+            "https://www.amnesty.org/en/latest/news/page/7/",
+            "https://www.amnesty.org/en/latest/news/page/8/",
+            "https://www.amnesty.org/en/latest/news/page/9/",
+            "https://www.amnesty.org/en/latest/news/page/10/",
+            "https://www.amnesty.org/en/latest/news/page/11/",
+            "https://www.amnesty.org/en/latest/news/page/12/",
+            "https://www.amnesty.org/en/latest/news/page/13/",
+            "https://www.amnesty.org/en/latest/news/page/14/",
+            "https://www.amnesty.org/en/latest/news/page/15/",
+            "https://www.amnesty.org/en/latest/news/page/16/"
+        ]
+    },
+    {
+        "name": "查塔姆研究所（皇家国际事务研究所）",
+        "url": [
+            "https://www.chathamhouse.org/events/past",
+            "https://www.chathamhouse.org/events/past?page=1",
+            "https://www.chathamhouse.org/events/past?page=2",
+            "https://www.chathamhouse.org/events/past?page=3",
+            "https://www.chathamhouse.org/events/past?page=4",
+            "https://www.chathamhouse.org/events/past?page=5",
+            "https://www.chathamhouse.org/events/past?page=6",
+            "https://www.chathamhouse.org/events/past?page=7",
+            "https://www.chathamhouse.org/events/past?page=8"
+        ]
+    },
+    {
+        "name": "环境正义基金会",
+        "url": [
+            "https://ejfoundation.org/news",
+            "https://ejfoundation.org/news/p1?showId=0",
+            "https://ejfoundation.org/news/p2?showId=0",
+            "https://ejfoundation.org/news/p3?showId=0",
+            "https://ejfoundation.org/news/p4?showId=0",
+            "https://ejfoundation.org/news/p5?showId=0",
+            "https://ejfoundation.org/news/p6?showId=0",
+            "https://ejfoundation.org/news/p7?showId=0"
+        ]
+    },
+    {
+        "name": "战略对话研究所",
+        "url": [
+            "https://www.isdglobal.org/press-releases/"
+        ]
+    },
+    {
+        "name": "德国信息产业、电信和新媒体协会",
+        "url": [
+            "https://www.bitkom.org/EN/Press/Pressreleases"
+        ]
+    },
+    {
+        "name": "欧洲民主基金会",
+        "url": [
+            "https://www.democracyendowment.eu/news"
+        ]
+    },
+    {
+        "name": "丹麦Sapere Aude独立研究基金",
+        "url": [
+            "https://dff.dk/hvad-har-vi-stoettet/bliv-inspireret-af-tidens-forskning/artikler-om-forskningsprojekter/"
+        ]
+    },
+    {
+        "name": "法国数据网络",
+        "url": [
+            "https://www.fdn.fr/category/actus/",
+            "https://www.fdn.fr/category/actus/page/2/",
+            "https://www.fdn.fr/category/actus/page/3/",
+            "https://www.fdn.fr/category/actus/page/4/",
+            "https://www.fdn.fr/category/actus/page/5/",
+            "https://www.fdn.fr/category/actus/page/6/",
+            "https://www.fdn.fr/category/actus/page/7/",
+            "https://www.fdn.fr/category/actus/page/8/",
+            "https://www.fdn.fr/category/actus/page/9/"
+        ]
+    },
+    {
+        "name": "无国界记者",
+        "url": [
+            "https://rsf.org/en/news?page=0/",
+            "https://rsf.org/en/news?page=1/",
+            "https://rsf.org/en/news?page=2/",
+            "https://rsf.org/en/news?page=3/",
+            "https://rsf.org/en/news?page=4/",
+            "https://rsf.org/en/news?page=5/",
+            "https://rsf.org/en/news?page=6/",
+            "https://rsf.org/en/news?page=7/",
+            "https://rsf.org/en/news?page=8/",
+            "https://rsf.org/en/news?page=9/",
+            "https://rsf.org/en/news?page=10/"
+        ]
+    },
+    {
+        "name": "橡树基金会",
+        "url": [
+            "https://oakfnd.org/stories/"
+        ]
+    },
+    {
+        "name": "对华政策跨国议会联盟",
+        "url": [
+            "https://www.ipac.global/campaigns-news"
+        ]
+    },
+    {
+        "name": "全球网络倡议",
+        "url": [
+            "https://globalnetworkinitiative.org/news/page/1/",
+            "https://globalnetworkinitiative.org/news/page/2/",
+            "https://globalnetworkinitiative.org/news/page/3/",
+            "https://globalnetworkinitiative.org/news/page/4/",
+            "https://globalnetworkinitiative.org/news/page/5/",
+            "https://globalnetworkinitiative.org/news/page/6/",
+            "https://globalnetworkinitiative.org/news/page/7/",
+            "https://globalnetworkinitiative.org/news/page/8/",
+            "https://globalnetworkinitiative.org/news/page/9/",
+            "https://globalnetworkinitiative.org/news/page/10/"
+        ]
+    },
+    {
+        "name": "入侵真相",
+        "url": [
+            "https://intrusiontruth.wordpress.com/page/1/",
+            "https://intrusiontruth.wordpress.com/page/2/",
+            "https://intrusiontruth.wordpress.com/page/3/",
+            "https://intrusiontruth.wordpress.com/page/4/",
+            "https://intrusiontruth.wordpress.com/page/5/",
+            "https://intrusiontruth.wordpress.com/page/6/",
+            "https://intrusiontruth.wordpress.com/page/7/",
+            "https://intrusiontruth.wordpress.com/page/8/",
+            "https://intrusiontruth.wordpress.com/page/9/",
+            "https://intrusiontruth.wordpress.com/page/10/"
+        ]
+    },
+    {
+        "name": "美国国务院情报研究局",
+        "url": [
+            "https://www.state.gov/remarks-and-releases-bureau-of-intelligence-and-research"
+        ]
+    },
+    {
+        "name": "美国国际媒体署",
+        "url": [
+            "https://www.usagm.gov/news-and-information/press-releases/usagm/"
+        ]
+    },
+    {
+        "name": "美国国防高级研究计划局",
+        "url": [
+            "https://www.darpa.mil/news#all"
+        ]
+    },
+    {
+        "name": "美国国土安全部网络安全和基础设施安全局",
+        "url": [
+            "https://www.cisa.gov/news-events/events"
+        ]
+    },
+    {
+        "name": "美国国家人工智能安全委员会",
+        "url": [
+            "https://www.state.gov/bureau-of-cyberspace-and-digital-policy/remarks-and-releases"
+        ]
+    },
+    {
+        "name": "美国国家标准与技术研究院",
+        "url": [
+            "https://www.nist.gov/news-events/events"
+        ]
+    },
+    {
+        "name": "美国参议院情报委员会",
+        "url": [
+            "https://www.intelligence.senate.gov/reports-publications/press-releases/"
+        ]
+    },
+    {
+        "name": "美国国家情报总监办公室",
+        "url": [
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2020",
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021",
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2022",
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023",
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024",
+            "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2025"
+        ]
+    },
+    {
+        "name": "美国对外关系委员会",
+        "url": [
+            "https://www.cfr.org/in-the-news"
+        ]
+    },
+    {
+        "name": "美国国土安全部",
+        "url": [
+            "https://www.dhs.gov/all-news-updates"
+        ]
+    },
+    {
+        "name": "美国国务院",
+        "url": [
+            "https://www.state.gov/press-releases/"
+        ]
+    },
+    {
+        "name": "美国国防情报局",
+        "url": [
+            "https://www.defense.gov/News/News-Stories/"
+        ]
+    },
+    {
+        "name": "美国际宗教自由委员会",
+        "url": [
+            "https://www.uscirf.gov/news-room/press-releases-statements"
+        ]
+    },
+    {
+        "name": "美国联邦调查局",
+        "url": [
+            "https://www.fbi.gov/news/speeches-and-testimony"
+        ]
+    },
+    {
+        "name": "美国联邦通信委员会",
+        "url": [
+            "https://www.fcc.gov/news-events/headlines"
+        ]
+    },
+    {
+        "name": "美国贸易代表办公室",
+        "url": [
+            "https://ustr.gov/about-us/policy-offices/press-office/press-releases"
+        ]
+    },
+    {
+        "name": "美国-欧盟贸易和技术委员会",
+        "url": [
+            "https://ustr.gov/about-us/policy-offices/press-office/press-releases"
+        ]
+    },
+    {
+        "name": "美国情报高级研究计划局",
+        "url": [
+            "https://www.iarpa.gov/newsroom?category%5B%5D=Press%20Releases",
+            "https://www.iarpa.gov/newsroom?category%5B0%5D=Press+Releases&sortby=newest&keyword=&page=2",
+            "https://www.iarpa.gov/newsroom?category%5B0%5D=Press+Releases&sortby=newest&keyword=&page=3",
+            "https://www.iarpa.gov/newsroom?category%5B%5D=News"
+        ]
+    },
+    {
+        "name": "美国商务部",
+        "url": [
+            "https://www.commerce.gov/news",
+            "https://www.commerce.gov/news?q=/news&page=1",
+            "https://www.commerce.gov/news?q=/news&page=2"
+        ]
+    },
+    {
+        "name": "美国司法部国家安全司",
+        "url": [
+            "https://www.justice.gov/nsd/nsd-statements-testimony-reports"
+        ]
+    },
+    {
+        "name": "美国国家科学基金会",
+        "url": [
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=0",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=1",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=2",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=3",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=4",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=5",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=6",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=7",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=8",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=9",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=10",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=11",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=12",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=13",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=14",
+            "https://www.nsf.gov/news/releases?query=&f%5B0%5D=news_type%3ANSF%20News&exposed_form_display=1&page=15"
+        ]
+    },
+    {
+        "name": "美国政府问责局",
+        "url": [
+            "https://www.gao.gov/reports-testimonies"
+        ]
+    },
+    {
+        "name": "美国白宫科技政策办公室",
+        "url": [
+            "https://www.whitehouse.gov/ostp/news/"
+        ]
+    },
+    {
+        "name": "英国国家网络安全中心",
+        "url": [
+            "https://www.ncsc.gov.uk/section/keep-up-to-date/ncsc-news?q=&defaultTypes=news,information&sort=date%2Bdesc"
+        ]
+    },
+    {
+        "name": "英国议会下院情报与安全委员会",
+        "url": [
+            "https://isc.independent.gov.uk/publications/",
+            "https://isc.independent.gov.uk/news/"
+        ]
+    },
+    {
+        "name": "德国联邦宪法保卫局",
+        "url": [
+            "https://www.verfassungsschutz.de/SiteGlobals/Forms/Suche/Expertensuche_Formular.html?documentType_=PressRelease&sortOrder=dateOfIssue_dt+desc&pageLocale=de"
+        ]
+    },
+    {
+        "name": "北约合作网络防御卓越中心",
+        "url": [
+            "https://ccdcoe.org/news/",
+            "https://ccdcoe.org/news/2024/",
+            "https://ccdcoe.org/news/2023/",
+            "https://ccdcoe.org/news/2022/"
+        ]
+    },
+    {
+        "name": "澳大利亚信号局",
+        "url": [
+            "https://www.asd.gov.au/news-events-speeches/news"
+        ]
+    },
+    {
+        "name": "加拿大安全情报局",
+        "url": [
+            "https://www.canada.ca/en/news/advanced-news-search/news-results.html?start=&end=.html&idx=0&_=1511296237142&dprtmnt=canadiansecurityintelligenceservice"
+        ]
+    },
+    {
+        "name": "加拿大通信安全局",
+        "url": [
+            "https://www.cse-cst.gc.ca/en/information-and-resources?filter=281,279,277,275,282,274"
+        ]
+    },
+    {
+        "name": "加拿大网络安全中心",
+        "url": [
+            "https://www.cyber.gc.ca/en/news-events"
+        ]
+    },
+    {
+        "name": "新西兰国家网络安全中心",
+        "url": [
+            "https://www.ncsc.govt.nz/news"
+        ]
+    },
+    {
+        "name": "菲律宾信息和通信技术部",
+        "url": [
+            "https://dict.gov.ph/department-circulars"
+        ]
+    },
+    {
+        "name": "独立研究组织米步罗",
+        "url": [
+            "https://miburo.substack.com/archive?sort=new"
+        ]
+    },
+    {
+        "name": "胡佛研究所“全球锐实力项目”",
+        "url": [
+            "https://www.hoover.org/publications/daily-report"
+        ]
+    },
+    {
+        "name": "美国布鲁金斯学会",
+        "url": [
+            "https://www.brookings.edu/past-events/"
+        ]
+    },
+    {
+        "name": "美国进步中心",
+        "url": [
+            "https://www.americanprogress.org/events/?events=past"
+        ]
+    },
+    {
+        "name": "美国皮尤研究中心",
+        "url": [
+            "https://www.pewresearch.org/publications/page/1/",
+            "https://www.pewresearch.org/publications/page/2/",
+            "https://www.pewresearch.org/publications/page/3/",
+            "https://www.pewresearch.org/publications/page/4/",
+            "https://www.pewresearch.org/publications/page/5/",
+            "https://www.pewresearch.org/publications/page/6/",
+            "https://www.pewresearch.org/publications/page/7/",
+            "https://www.pewresearch.org/publications/page/8/",
+            "https://www.pewresearch.org/publications/page/9/",
+            "https://www.pewresearch.org/publications/page/10/"
+        ]
+    },
+    {
+        "name": "美国企业公共政策研究所",
+        "url": [
+            "https://www.aei.org/past-events/page/1/",
+            "https://www.aei.org/past-events/page/2/",
+            "https://www.aei.org/past-events/page/3/",
+            "https://www.aei.org/past-events/page/4/",
+            "https://www.aei.org/past-events/page/5/",
+            "https://www.aei.org/past-events/page/6/",
+            "https://www.aei.org/past-events/page/7/",
+            "https://www.aei.org/past-events/page/8/",
+            "https://www.aei.org/past-events/page/9/",
+            "https://www.aei.org/past-events/page/10/"
+        ]
+    },
+    {
+        "name": "美国智库“德国马歇尔基金会”",
+        "url": [
+            "https://www.gmfus.org/insights-research"
+        ]
+    },
+    {
+        "name": "斯坦福大学“全球数字政策孵化器”",
+        "url": [
+            "https://fsi.stanford.edu/news?page=0",
+            "https://fsi.stanford.edu/news?page=1",
+            "https://fsi.stanford.edu/news?page=2",
+            "https://fsi.stanford.edu/news?page=3",
+            "https://fsi.stanford.edu/news?page=4",
+            "https://fsi.stanford.edu/news?page=5",
+            "https://fsi.stanford.edu/news?page=6",
+            "https://fsi.stanford.edu/news?page=7",
+            "https://fsi.stanford.edu/news?page=8",
+            "https://fsi.stanford.edu/news?page=9"
+        ]
+    },
+    {
+        "name": "新线政策研究所",
+        "url": [
+            "https://newlinesinstitute.org/news/"
+        ]
+    },
+    {
+        "name": "柏林自由大学",
+        "url": [
+            "https://www.fu-berlin.de/en/presse/informationen/fup/aktuell/index.html"
+        ]
+    },
+    {
+        "name": "弗里德里希·瑙曼基金会",
+        "url": [
+            "https://shop.freiheit.org/#Veranstaltungen/"
+        ]
+    },
+    {
+        "name": "捷克“论坛2000”基金会",
+        "url": [
+            "https://www.forum1111.cz/en/blog?strana=1",
+            "https://www.forum2222.cz/en/blog?strana=2",
+            "https://www.forum3333.cz/en/blog?strana=3",
+            "https://www.forum4444.cz/en/blog?strana=4",
+            "https://www.forum5555.cz/en/blog?strana=5",
+            "https://www.forum6666.cz/en/blog?strana=6",
+            "https://www.forum7777.cz/en/blog?strana=7",
+            "https://www.forum8888.cz/en/blog?strana=8",
+            "https://www.forum9999.cz/en/blog?strana=9",
+            "https://www.forum10101010.cz/en/blog?strana=10"
+        ]
+    },
+    {
+        "name": "西、法“欧洲中国事务智库联盟”",
+        "url": [
+            "https://www.ifri.org/en/agenda"
+        ]
+    },
+    {
+        "name": "格拉菲卡",
+        "url": [
+            "https://www.graphika.com/reports"
+        ]
+    },
+    {
+        "name": "美国盖洛普咨询公司",
+        "url": [
+            "https://news.gallup.com/topic/all-gallup-headlines.aspx"
+        ]
+    },
+    {
+        "name": "赛风公司",
+        "url": [
+            "https://www.psiphon.ca/zh/blog/index.html"
+        ]
+    },
+    {
+        "name": "ExpressVPN",
+        "url": [
+            "https://www.expressvpn.com/",
+            "https://www.expressvpn.com/blog/"
+        ]
+    },
+    {
+        "name": "Surfshark VPN",
+        "url": [
+            "https://x.com/Surfshark_VPN",
+            "https://expressvpn-site.com/v3u-list/49336-1.html",
+            "https://expressvpn-site.com/v3u-list/49337-1.html",
+            "https://expressvpn-site.com/v3u-list/49338-1.html",
+            "https://expressvpn-site.com/v3u-list/49340-1.html",
+            "https://expressvpn-site.com/v3u-list/49341-1.html"
+        ]
+    },
+    {
+        "name": "WireGuard",
+        "url": [
+            "https://x.com/WireGuardVPN"
+        ]
+    },
+    {
+        "name": "Astrill VPN",
+        "url": [
+            "https://www.astrill.com/download/windows",
+            "https://www.astrill.com/zh/features",
+            "https://www.astrill.com/blog/",
+            "https://x.com/astrill"
+        ]
+    },
+    {
+        "name": "NordVPN",
+        "url": [
+            "https://nordvpn.com/zh-tw/download/?msockid=3b5c100f4df566fb092004844c9367f5",
+            "https://nordvpn.com/zh-tw/press-area/",
+            "https://x.com/NordVPN"
+        ]
+    },
+    {
+        "name": "GitHub",
+        "url": [
+            "https://x.com/github",
+            "https://github.com/github",
+            "https://github.com/orgs/github/projects/4247",
+            "https://github.blog/"
+        ]
+    },
+    {
+        "name": "OpenVPN",
+        "url": [
+            "https://x.com/OpenVPN",
+            "https://blog.openvpn.net/",
+            "https://blog.openvpn.net/tag/vpn",
+            "https://blog.openvpn.net/tag/cloud-security",
+            "https://blog.openvpn.net/tag/announcements"
+        ]
+    }
+]

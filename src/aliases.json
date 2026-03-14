@@ -1,0 +1,502 @@
+[
+  {
+    "alias": "CALDERANO H.",
+    "playerId": 1,
+    "fullName": "Hugo CALDERANO"
+  },
+  {
+    "alias": "MOREGARD T.",
+    "playerId": 2,
+    "fullName": "Truls MOREGARD"
+  },
+  {
+    "alias": "Tomokazu H.",
+    "playerId": 3,
+    "fullName": "HARIMOTO Tomokazu"
+  },
+  {
+    "alias": "LEBRUN F.",
+    "playerId": 4,
+    "fullName": "LEBRUN Felix"
+  },
+  {
+    "alias": "Sora M.",
+    "playerId": 5,
+    "fullName": "MATSUSHIMA Sora"
+  },
+  {
+    "alias": "Yun-Ju L.",
+    "playerId": 6,
+    "fullName": "LIN Yun-Ju"
+  },
+  {
+    "alias": "LEBRUN A.",
+    "playerId": 7,
+    "fullName": "Alexis LEBRUN"
+  },
+  {
+    "alias": "QIU D.",
+    "playerId": 8,
+    "fullName": "Dang QIU"
+  },
+  {
+    "alias": "Woojin J.",
+    "playerId": 9,
+    "fullName": "JANG Woojin"
+  },
+  {
+    "alias": "DUDA B.",
+    "playerId": 10,
+    "fullName": "Benedikt DUDA"
+  },
+  {
+    "alias": "JORGIC D.",
+    "playerId": 11,
+    "fullName": "Darko JORGIC"
+  },
+  {
+    "alias": "Jaehyun A.",
+    "playerId": 12,
+    "fullName": "AN Jaehyun"
+  },
+  {
+    "alias": "GAUZY S.",
+    "playerId": 13,
+    "fullName": "Simon GAUZY"
+  },
+  {
+    "alias": "LIND A.",
+    "playerId": 14,
+    "fullName": "Anders LIND"
+  },
+  {
+    "alias": "FRANZISKA P.",
+    "playerId": 15,
+    "fullName": "Patrick FRANZISKA"
+  },
+  {
+    "alias": "Shunsuke T.",
+    "playerId": 16,
+    "fullName": "TOGAMI Shunsuke"
+  },
+  {
+    "alias": "JHA K.",
+    "playerId": 17,
+    "fullName": "Kanak JHA"
+  },
+  {
+    "alias": "Junsung O.",
+    "playerId": 18,
+    "fullName": "OH Junsung"
+  },
+  {
+    "alias": "OVTCHAROV D.",
+    "playerId": 19,
+    "fullName": "Dimitrij OVTCHAROV"
+  },
+  {
+    "alias": "Yukiya U.",
+    "playerId": 20,
+    "fullName": "UDA Yukiya"
+  },
+  {
+    "alias": "PUCAR T.",
+    "playerId": 21,
+    "fullName": "Tomislav PUCAR"
+  },
+  {
+    "alias": "KALLBERG A.",
+    "playerId": 22,
+    "fullName": "Anton KALLBERG"
+  },
+  {
+    "alias": "Hiroto S.",
+    "playerId": 23,
+    "fullName": "SHINOZUKA Hiroto"
+  },
+  {
+    "alias": "ASSAR O.",
+    "playerId": 24,
+    "fullName": "Omar ASSAR"
+  },
+  {
+    "alias": "COTON F.",
+    "playerId": 25,
+    "fullName": "COTON Flavien"
+  },
+  {
+    "alias": "ARUNA Q.",
+    "playerId": 26,
+    "fullName": "Quadri ARUNA"
+  },
+  {
+    "alias": "THAKKAR M.",
+    "playerId": 27,
+    "fullName": "Manav THAKKAR"
+  },
+  {
+    "alias": "PORET P.",
+    "playerId": 28,
+    "fullName": "PORET Thibault"
+  },
+  {
+    "alias": "Yuta T.",
+    "playerId": 29,
+    "fullName": "TANAKA Yuta"
+  },
+  {
+    "alias": "REDZIMSKI R.",
+    "playerId": 30,
+    "fullName": "REDZIMSKI Milosz"
+  },
+  {
+    "alias": "GROTH J.",
+    "playerId": 31,
+    "fullName": "Jonathan GROTH"
+  },
+  {
+    "alias": "KARLSSON K.",
+    "playerId": 32,
+    "fullName": "Kristian KARLSSON"
+  },
+  {
+    "alias": "LUM L.",
+    "playerId": 33,
+    "fullName": "LUM Nicholas"
+  },
+  {
+    "alias": "IONESCU E.",
+    "playerId": 34,
+    "fullName": "IONESCU Eduard"
+  },
+  {
+    "alias": "WALTHER R.",
+    "playerId": 35,
+    "fullName": "Ricardo WALTHER"
+  },
+  {
+    "alias": "Ting W.",
+    "playerId": 36,
+    "fullName": "WONG Chun Ting"
+  },
+  {
+    "alias": "Cheng-Jui K.",
+    "playerId": 37,
+    "fullName": "KAO Cheng-Jui"
+  },
+  {
+    "alias": "BARDET L.",
+    "playerId": 38,
+    "fullName": "Lilian BARDET"
+  },
+  {
+    "alias": "Finn L.",
+    "playerId": 39,
+    "fullName": "LUU Finn"
+  },
+  {
+    "alias": "ABDELAZIZ Y.",
+    "playerId": 40,
+    "fullName": "Youssef ABDELAZIZ"
+  },
+  {
+    "alias": "Daeseong C.",
+    "playerId": 41,
+    "fullName": "CHO Daeseong"
+  },
+  {
+    "alias": "SIDORENKO V.",
+    "playerId": 42,
+    "fullName": "Vladimir SIDORENKO"
+  },
+  {
+    "alias": "Yi-Hsin F.",
+    "playerId": 43,
+    "fullName": "FENG Yi-Hsin"
+  },
+  {
+    "alias": "NODREST L.",
+    "playerId": 44,
+    "fullName": "Leo DE NODREST"
+  },
+  {
+    "alias": "SAREEN A.",
+    "playerId": 45,
+    "fullName": "Aditya SAREEN"
+  },
+  {
+    "alias": "Kazuki H.",
+    "playerId": 46,
+    "fullName": "HAMADA Kazuki"
+  },
+  {
+    "alias": "GNANASEKARAN S.",
+    "playerId": 47,
+    "fullName": "Sathiyan GNANASEKARAN"
+  },
+  {
+    "alias": "RASSENFOSSE A.",
+    "playerId": 48,
+    "fullName": "Adrien RASSENFOSSE"
+  },
+  {
+    "alias": "BAE H.",
+    "playerId": 49,
+    "fullName": "BAE Hwan"
+  },
+  {
+    "alias": "Ryoichi Y.",
+    "playerId": 50,
+    "fullName": "YOSHIYAMA Ryoichi"
+  },
+  {
+    "alias": "Yuling Z.",
+    "playerId": 51,
+    "fullName": "ZHU Yuling"
+  },
+  {
+    "alias": "Miwa H.",
+    "playerId": 52,
+    "fullName": "HARIMOTO Miwa"
+  },
+  {
+    "alias": "Mima I.",
+    "playerId": 53,
+    "fullName": "ITO Mima"
+  },
+  {
+    "alias": "Hina H.",
+    "playerId": 54,
+    "fullName": "HAYATA Hina"
+  },
+  {
+    "alias": "Honoka H.",
+    "playerId": 55,
+    "fullName": "HASHIMOTO Honoka"
+  },
+  {
+    "alias": "Yubin S.",
+    "playerId": 56,
+    "fullName": "SHIN Yubin"
+  },
+  {
+    "alias": "Satsuki O.",
+    "playerId": 57,
+    "fullName": "ODO Satsuki"
+  },
+  {
+    "alias": "Miyu N.",
+    "playerId": 58,
+    "fullName": "NAGASAKI Miyu"
+  },
+  {
+    "alias": "Cheonhui J.",
+    "playerId": 59,
+    "fullName": "JOO Cheonhui"
+  },
+  {
+    "alias": "WINTER S.",
+    "playerId": 60,
+    "fullName": "Sabine WINTER"
+  },
+  {
+    "alias": "HAN Y.",
+    "playerId": 61,
+    "fullName": "Ying HAN"
+  },
+  {
+    "alias": "DIAZ A.",
+    "playerId": 62,
+    "fullName": "Adriana DIAZ"
+  },
+  {
+    "alias": "TAKAHASHI B.",
+    "playerId": 63,
+    "fullName": "Bruna TAKAHASHI"
+  },
+  {
+    "alias": "I-Ching C.",
+    "playerId": 64,
+    "fullName": "CHENG I-Ching"
+  },
+  {
+    "alias": "Miyuu K.",
+    "playerId": 65,
+    "fullName": "KIHARA Miyuu"
+  },
+  {
+    "alias": "Hitomi S.",
+    "playerId": 66,
+    "fullName": "SATO Hitomi"
+  },
+  {
+    "alias": "GODA H.",
+    "playerId": 67,
+    "fullName": "Hana GODA"
+  },
+  {
+    "alias": "Nan Y.",
+    "playerId": 68,
+    "fullName": "YUAN Jia Nan"
+  },
+  {
+    "alias": "Nayeong K.",
+    "playerId": 69,
+    "fullName": "KIM Nayeong"
+  },
+  {
+    "alias": "SZOCS B.",
+    "playerId": 70,
+    "fullName": "Bernadette SZOCS"
+  },
+  {
+    "alias": "PAVADE P.",
+    "playerId": 71,
+    "fullName": "Prithika PAVADE"
+  },
+  {
+    "alias": "SAMARA E.",
+    "playerId": 72,
+    "fullName": "Elizabeta SAMARA"
+  },
+  {
+    "alias": "POLCANOVA S.",
+    "playerId": 73,
+    "fullName": "Sofia POLCANOVA"
+  },
+  {
+    "alias": "Eunhye L.",
+    "playerId": 74,
+    "fullName": "LEE Eunhye"
+  },
+  {
+    "alias": "Jian Z.",
+    "playerId": 75,
+    "fullName": "ZENG Jian"
+  },
+  {
+    "alias": "Sakura Y.",
+    "playerId": 76,
+    "fullName": "YOKOI Sakura"
+  },
+  {
+    "alias": "Kem D.",
+    "playerId": 77,
+    "fullName": "DOO Hoi Kem"
+  },
+  {
+    "alias": "Yangzi L.",
+    "playerId": 78,
+    "fullName": "LIU Yangzi"
+  },
+  {
+    "alias": "ZHANG L.",
+    "playerId": 79,
+    "fullName": "Lily ZHANG"
+  },
+  {
+    "alias": "Kaho A.",
+    "playerId": 80,
+    "fullName": "AKAE Kaho"
+  },
+  {
+    "alias": "Saki S.",
+    "playerId": 81,
+    "fullName": "SHIBATA Saki"
+  },
+  {
+    "alias": "AKULA S.",
+    "playerId": 82,
+    "fullName": "Sreeja AKULA"
+  },
+  {
+    "alias": "Anna H.",
+    "playerId": 83,
+    "fullName": "HURSEY Anna"
+  },
+  {
+    "alias": "MESHREF D.",
+    "playerId": 84,
+    "fullName": "Dina MESHREF"
+  },
+  {
+    "alias": "BATRA M.",
+    "playerId": 85,
+    "fullName": "Manika BATRA"
+  },
+  {
+    "alias": "BERGSTROM L.",
+    "playerId": 86,
+    "fullName": "Linda BERGSTROM"
+  },
+  {
+    "alias": "ZHANG M.",
+    "playerId": 87,
+    "fullName": "Mo ZHANG"
+  },
+  {
+    "alias": "Annett K.",
+    "playerId": 88,
+    "fullName": "KAUFMANN Annett"
+  },
+  {
+    "alias": "JEE M.",
+    "playerId": 89,
+    "fullName": "Minhyung JEE"
+  },
+  {
+    "alias": "Miu H.",
+    "playerId": 90,
+    "fullName": "HIRANO Miu"
+  },
+  {
+    "alias": "Yu-Jhun L.",
+    "playerId": 91,
+    "fullName": "LI Yu-Jhun"
+  },
+  {
+    "alias": "Constantina P.",
+    "playerId": 92,
+    "fullName": "PSIHOGIOS Constantina "
+  },
+  {
+    "alias": "RAKOVAC L.",
+    "playerId": 93,
+    "fullName": "Lea RAKOVAC"
+  },
+  {
+    "alias": "SHAO J.",
+    "playerId": 94,
+    "fullName": "Jieni SHAO"
+  },
+  {
+    "alias": "YU F.",
+    "playerId": 95,
+    "fullName": "Fu YU"
+  },
+  {
+    "alias": "Yi-Tian Y.",
+    "playerId": 96,
+    "fullName": "YEH Yi-Tian"
+  },
+  {
+    "alias": "SHAN X.",
+    "playerId": 97,
+    "fullName": "Xiaona SHAN"
+  },
+  {
+    "alias": "WANG A.",
+    "playerId": 98,
+    "fullName": "Amy WANG"
+  },
+  {
+    "alias": "Charlotte L.",
+    "playerId": 99,
+    "fullName": "LUTZ Charlotte"
+  },
+  {
+    "alias": "Seongjin キ.",
+    "playerId": 100,
+    "fullName": "キム・ソンジン KIM Seongjin"
+  }
+]
